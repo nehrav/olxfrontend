@@ -77,23 +77,21 @@ var map,
 			marker = new google.maps.Marker({
   				position:myCenter,
 				icon:'images/pinkicon.png'
-  			});
-		
-		/*var infowindow = new google.maps.InfoWindow({
-		  content:"Hello World!"
-		});*/
+  			}),
+			infowindow = new google.maps.InfoWindow({
+		  		content:"Hello World!"
+			});
 		
 		map = new google.maps.Map(document.getElementById("map"), mapProp);
 		marker.setMap(map);
 		myCity.setMap(map); 
 		
-		google.maps.event.addListener(map, 'click', function(event) {
-			app.placeMarker(event.latLng);
+		//google.maps.event.addListener(map, 'click', function(event) {
+			//app.placeMarker(event.latLng, map);
 		  //infowindow.open(map,marker);
-		});
-
+		//});
 	},
-	placeMarker: function (location) {
+	placeMarker: function (location, map) {
 		var marker = new google.maps.Marker({
 				position: location,
 				map: map,
@@ -104,12 +102,11 @@ var map,
 	  	infowindow.open(map, marker);
 	},
 	changeListing: function (type) {
-		console.log(type);
 		$('#listing li').hide();
-		/*$.each(type, function (i, val) {
+		$.each(type, function (i, val) {
 			var filterType = val;
-			$('#listing li[data-type="' type '"]').show();
-		});*/
+			$('#listing li[data-type="' + filterType + '"]').show();
+		});
 	}
 }
 
