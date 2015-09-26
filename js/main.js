@@ -79,11 +79,12 @@ var map,
 				icon:'images/pinkicon.png'
   			});
 		
-		var infowindow = new google.maps.InfoWindow({
+		/*var infowindow = new google.maps.InfoWindow({
 		  content:"Hello World!"
-		});
+		});*/
 		
 		map = new google.maps.Map(document.getElementById("map"), mapProp);
+		marker.setMap(map);
 		myCity.setMap(map); 
 		
 		google.maps.event.addListener(map, 'click', function(event) {
