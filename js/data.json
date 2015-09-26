@@ -1,0 +1,5927 @@
+{
+  "total": 9848,
+  "city": "Noida",
+  "filters": [
+  	"Under Construction",
+	"Ready To Move"
+  ],
+  "results": [
+    {
+      "PROP_ID": "M15174009",
+      "SPID": 15174009,
+      "VERIFIED": "N",
+      "PROFILEID": "10308660",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 580,
+      "AREA_TYPE": "Built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "13.5 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "P",
+      "BEDROOM_NUM": 1,
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/nandni-homes-ghaziabad-drid-10308660",
+        "text": "Nandni Homes",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1004\/7\/20087742T-1440404565.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "Y",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Furnished"
+    },
+    {
+      "PROP_ID": "I21159148",
+      "SPID": 21159148,
+      "VERIFIED": "N",
+      "PROFILEID": "2894017",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Meter",
+      "AREA": 300,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 123,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "3.45 Crore",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-31 Noida",
+      "SOCIETY_NAME": "Rwa Society",
+      "PROP_NAME": "RWA SOCIETY",
+      "LISTING": "P",
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/prop-world-realty-p-ltd-noida-drid-2894017",
+        "text": "PROP WORLD REALTY (P) ltd",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Rwa Society",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2044\/13\/40893002T-1441104784.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "X21441977",
+      "SPID": 21441977,
+      "VERIFIED": "N",
+      "PROFILEID": "17399324",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 2575,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8094,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "48 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida-Greater Noida Expressway",
+      "SOCIETY_NAME": "Fashion Residency",
+      "PROP_NAME": "Fashion Residency",
+      "LISTING": "F",
+      "BEDROOM_NUM": 3,
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Owner",
+        "text": "Ketan",
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Fashion Residency",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+        "type": "noPhoto"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Furnished"
+    },
+    {
+      "PROP_ID": "K21392452",
+      "SPID": 21392452,
+      "VERIFIED": "N",
+      "PROFILEID": "17447246",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1147,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 7876,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "61.93 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-76 Noida",
+      "SOCIETY_NAME": "J M Orchid",
+      "PROP_NAME": "J M Orchid",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/finlace-consulting-pvt-ltd-noida-drid-17447246",
+        "text": "Finlace Consulting Pvt ltd",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "J M Orchid",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2099\/8\/41988310T-1442390466.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "V10246011",
+      "SPID": 10246011,
+      "VERIFIED": "N",
+      "PROFILEID": "5506632",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1000,
+      "AREA_TYPE": "Built-up ",
+      "LOCALITY_ID": 7779,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "25 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-129 Noida",
+      "SOCIETY_NAME": "Gaur Yamuna City",
+      "PROP_NAME": "Gaur Yamuna City",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/galaxy-infratech-greater-noida-drid-5506632",
+        "text": "Galaxy Infratech",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Gaur Yamuna City",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+        "type": "noPhoto"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "E20799255",
+      "SPID": 20799255,
+      "VERIFIED": "N",
+      "PROFILEID": "7157099",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 972,
+      "AREA_TYPE": "Built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "30 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "F",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Owner",
+        "text": "vivin chand",
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+        "type": "noPhoto"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "H20935269",
+      "SPID": 20935269,
+      "VERIFIED": "N",
+      "PROFILEID": "3922193",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "House\/Villa",
+      "AREA_UNIT": "Sq. Meter",
+      "AREA": 450,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 76,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "12 Crore",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-47 Noida",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "P",
+      "BEDROOM_NUM": 9,
+      "LATITUDE": "28.53552",
+      "LONGITUDE": "77.39103",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/7-estates-noida-drid-3922193",
+        "text": "7 Estates",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1999\/19\/39999335T-1439811912.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": "Furnished"
+    },
+    {
+      "PROP_ID": "F20061843",
+      "SPID": 20061843,
+      "VERIFIED": "N",
+      "PROFILEID": "10393397",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1137,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "38 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Apex Golf Avenue",
+      "PROP_NAME": "apex golf avenue",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/magic-tree-infratech-pvt-ltd-noida-drid-10393397",
+        "text": "Magic Tree Infratech Pvt Ltd",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Apex Golf Avenue",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+        "type": "noPhoto"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "T21509007",
+      "SPID": 21509007,
+      "VERIFIED": "N",
+      "PROFILEID": "6073",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Meter",
+      "AREA": 300,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 95,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "Price on Request",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-93 Noida",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "B",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/link-properties-private-limited-delhi-south-drid-6073",
+        "text": "Link Properties Private Limited",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+        "type": "noPhoto"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "L19437989",
+      "SPID": 19437989,
+      "VERIFIED": "N",
+      "PROFILEID": "6007400",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Yards",
+      "AREA": 120,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "13.2 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Rwa Registered Society Vip City",
+      "PROP_NAME": "RWA registered society vip city",
+      "LISTING": "P",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Builder",
+        "text": "Adhaar Homes Infrastructure Pvt. Ltd.",
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Rwa Registered Society Vip City",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1701\/4\/34024187T-1431333016.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "Z21235128",
+      "SPID": 21235128,
+      "VERIFIED": "N",
+      "PROFILEID": "17186673",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Yards",
+      "AREA": 100,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 8094,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "4 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida-Greater Noida Expressway",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "F",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Owner",
+        "text": "sanjay",
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2063\/13\/41273558T-1441527012.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "I20119509",
+      "SPID": 20119509,
+      "VERIFIED": "N",
+      "PROFILEID": "7452640",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 600,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "18.43 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Anantham Homes",
+      "PROP_NAME": "ANANTHAM HOMES",
+      "LISTING": "B",
+      "BEDROOM_NUM": 1,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/angel-homes-ghaziabad-drid-7452640",
+        "text": "Angel Homes",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Anantham Homes",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1837\/10\/36750831T-1435231047.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "U16465197",
+      "SPID": 16465197,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 450,
+      "AREA_TYPE": "Built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "14.51 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Friends Enclave",
+      "PROP_NAME": "friends enclave",
+      "LISTING": "B",
+      "BEDROOM_NUM": 1,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Friends Enclave",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1256\/1\/25121365T-1415530921.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "N18179983",
+      "SPID": 18179983,
+      "VERIFIED": "N",
+      "PROFILEID": "2119211",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1175,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "50.25 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Gaur City",
+      "PROP_NAME": "Gaur city",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/shree-krishna-associates-and-buildcon-ghaziabad-drid-2119211",
+        "text": "Shree Krishna Associates and Buildcon",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Gaur City",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1501\/11\/30031731T-1424672981.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "X19758045",
+      "SPID": 19758045,
+      "VERIFIED": "N",
+      "PROFILEID": "8801654",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Yards",
+      "AREA": 175,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "22.75 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Adhaar Residancey",
+      "PROP_NAME": "adhaar residancey",
+      "LISTING": "P",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/adhaar-homes-group-noida-drid-8801654",
+        "text": "Adhaar Homes Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Adhaar Residancey",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1763\/11\/35271655T-1433227988.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "N21557397",
+      "SPID": 21557397,
+      "VERIFIED": "N",
+      "PROFILEID": "5362207",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 795,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "28 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Eco Village-2",
+      "PROP_NAME": "eco village-2",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/property-plus-noida-drid-5362207",
+        "text": "Property Plus",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Eco Village-2",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2133\/1\/42661627T-1443177875.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Unfurnished"
+    },
+    {
+      "PROP_ID": "T21513217",
+      "SPID": 21513217,
+      "VERIFIED": "N",
+      "PROFILEID": "11489572",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Yards",
+      "AREA": 50,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 8094,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "4 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida-Greater Noida Expressway",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "F",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Owner",
+        "text": "sanjay kumar dwivedi",
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2123\/1\/42461969T-1442995323.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "W19931375",
+      "SPID": 19931375,
+      "VERIFIED": "N",
+      "PROFILEID": "6007400",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Yards",
+      "AREA": 90,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "11.7 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Adhaar Residancy",
+      "PROP_NAME": "Adhaar Residancy",
+      "LISTING": "P",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Builder",
+        "text": "Adhaar Homes Infrastructure Pvt. Ltd.",
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Adhaar Residancy",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1800\/0\/36000505T-1434172882.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "G21557249",
+      "SPID": 21557249,
+      "VERIFIED": "N",
+      "PROFILEID": "5362207",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 915,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "34 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Panchsheel Green-2",
+      "PROP_NAME": "panchsheel green-2",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/property-plus-noida-drid-5362207",
+        "text": "Property Plus",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Panchsheel Green-2",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2133\/3\/42663051T-1443178592.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "S17009473",
+      "SPID": 17009473,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1800,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "21.06 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Saihomz",
+      "PROP_NAME": "Saihomz",
+      "LISTING": "B",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Saihomz",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1333\/4\/26664227T-1418296081.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "Y16959157",
+      "SPID": 16959157,
+      "VERIFIED": "N",
+      "PROFILEID": "9545994",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1675,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 95,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "1.08 Crore",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-93 Noida",
+      "SOCIETY_NAME": "Omaxe Riyassat",
+      "PROP_NAME": "omaxe riyassat",
+      "LISTING": "P",
+      "BEDROOM_NUM": 3,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/investor-aura-greater-noida-drid-9545994",
+        "text": "Investor Aura",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Omaxe Riyassat",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1326\/15\/26535567T-1418112233.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Furnished"
+    },
+    {
+      "PROP_ID": "A21513065",
+      "SPID": 21513065,
+      "VERIFIED": "N",
+      "PROFILEID": "11489572",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Land",
+      "AREA_UNIT": "Sq. Yards",
+      "AREA": 100,
+      "AREA_TYPE": "Plot ",
+      "LOCALITY_ID": 8094,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "7 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida-Greater Noida Expressway",
+      "SOCIETY_NAME": "",
+      "PROP_NAME": "",
+      "LISTING": "F",
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Owner",
+        "text": "sanjay kumar dwivedi",
+        "vcard": false
+      },
+      "BLDNG_INFO": false,
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/2123\/1\/42461181T-1442995022.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Ready to Move",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "V17005095",
+      "SPID": 17005095,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1800,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "21.05 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Sai Homz",
+      "PROP_NAME": "Sai homz",
+      "LISTING": "B",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Sai Homz",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1332\/9\/26649437T-1418286739.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "A18216485",
+      "SPID": 18216485,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 650,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "13 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Saihomz",
+      "PROP_NAME": "saihomz",
+      "LISTING": "B",
+      "BEDROOM_NUM": 1,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Saihomz",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1507\/6\/30146191T-1424853204.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "F16992495",
+      "SPID": 16992495,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1800,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "21 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Sai Homz",
+      "PROP_NAME": "sai homz",
+      "LISTING": "B",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Sai Homz",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1330\/3\/26603443T-1418211067.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "H17006087",
+      "SPID": 17006087,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 700,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "14.5 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Sai Homz",
+      "PROP_NAME": "Sai homz",
+      "LISTING": "B",
+      "BEDROOM_NUM": 1,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Sai Homz",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1332\/11\/26651735T-1418287516.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "D20290439",
+      "SPID": 20290439,
+      "VERIFIED": "N",
+      "PROFILEID": "12484533",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1380,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 7867,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "46.73 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Sector-75 Noida",
+      "SOCIETY_NAME": "Samridhi Grand Avenue",
+      "PROP_NAME": "Samridhi Grand Avenue",
+      "LISTING": "P",
+      "BEDROOM_NUM": 3,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/prop-leverage-consulting-pvt-ltd-noida-drid-12484533",
+        "text": "PROP LEVERAGE CONSULTING PVT. LTD.",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Samridhi Grand Avenue",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1873\/8\/37468079T-1436180446.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": ""
+    },
+    {
+      "PROP_ID": "U20640971",
+      "SPID": 20640971,
+      "VERIFIED": "N",
+      "PROFILEID": "3415251",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1031,
+      "AREA_TYPE": "Built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "32 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Nirala Splendora",
+      "PROP_NAME": "nirala splendora",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/krish-multiservices-noida-drid-3415251",
+        "text": "KRISH MULTISERVICES",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Nirala Splendora",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+        "type": "noPhoto"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "B17003285",
+      "SPID": 17003285,
+      "VERIFIED": "N",
+      "PROFILEID": "1162921",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Builder Floor",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1200,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "14.51 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Sai Homz",
+      "PROP_NAME": "Sai homz",
+      "LISTING": "B",
+      "BEDROOM_NUM": 1,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/united-group-delhi-east-drid-1162921",
+        "text": "United Group",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Sai Homz",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1332\/3\/26643411T-1418282417.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Semi-Furnished"
+    },
+    {
+      "PROP_ID": "S18618165",
+      "SPID": 18618165,
+      "VERIFIED": "N",
+      "PROFILEID": "14229849",
+      "SHORTLISTED": "N",
+      "TYPE_DISP": "Apartment",
+      "AREA_UNIT": "Sq.Ft.",
+      "AREA": 1175,
+      "AREA_TYPE": "Super built-up ",
+      "LOCALITY_ID": 8232,
+      "BUILDING_ID": 0,
+      "IS_XID_ATTACHED": 0,
+      "PRICE_DISP": "31 Lac",
+      "CITY": "Noida",
+      "LOCALITY": "Noida Extension",
+      "SOCIETY_NAME": "Gaur City 5th Avenue",
+      "PROP_NAME": "gaur city 5th avenue",
+      "LISTING": "P",
+      "BEDROOM_NUM": 2,
+      "LATITUDE": "28.5355161",
+      "LONGITUDE": "77.3910265",
+      "PROP_INFO": {
+        "class_label": "Dealer",
+        "dealer_url": "\/resale-deals-expert-noida-drid-14229849",
+        "text": "Resale Deals Expert",
+        "link": true,
+        "vcard": false
+      },
+      "BLDNG_INFO": {
+        "name": "Gaur City 5th Avenue",
+        "link": null,
+        "label": "Society :",
+        "cls": "fwn ",
+        "lcls": null
+      },
+      "DEFAULT_THUMB": {
+        "url": "http:\/\/mediacdn.99acres.com\/1568\/11\/31371209T-1426933742.jpeg",
+        "type": "photo"
+      },
+      "MAPPED": "N",
+      "AVAILABILITY": "Under Construction",
+      "FURNISH": "Furnished"
+    }
+  ],
+  "data": [
+    {
+      "total": 6604,
+      "resultType": "LISTING",
+      "results": {
+        "listings": {
+          "T18226699": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.530905828944",
+            "LNG": "77.369380961902",
+            "PRICE_RANGE": {
+              "min": 23000000,
+              "max": 23000000
+            },
+            "AREA": "200 Sq. Meter",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "sector 105, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Q14881141": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.529487976418",
+            "LNG": "77.370185852051",
+            "PRICE_RANGE": {
+              "min": 22000000,
+              "max": 22000000
+            },
+            "AREA": "200 Sq. Meter",
+            "PROJ_NAME": "Sector 105 Plot",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "sector 105 plot, Sector-105 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/963\/1\/19261124T-1439454306.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "W12555549": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.548169512862",
+            "LNG": "77.370326610398",
+            "BEDROOM_NUM": 5,
+            "PRICE_RANGE": {
+              "min": 18000000,
+              "max": 18000000
+            },
+            "AREA": "112.05 Sq. Meter",
+            "PROJ_NAME": "R W A",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "R W A, Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1371\/0\/27420378T-1424643401.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "S21432327": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531567472824",
+            "LNG": "77.400714269311",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3869000,
+              "max": 3869000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Vvip Homes Noida Extention",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "vvip homes noida extention, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2108\/3\/42163871T-1442579467.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "S20495341": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5431646",
+            "LNG": "77.3851925",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1850000,
+              "max": 1850000
+            },
+            "AREA": "463 Sq.Ft.",
+            "LOCALITY_ID": 13192,
+            "ADDRESS": "Sector-102 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2125\/3\/42503143T-1443020470.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "E20128153": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5432716",
+            "LNG": "77.3850639",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 2000000,
+              "max": 2000000
+            },
+            "AREA": "499 Sq.Ft.",
+            "LOCALITY_ID": 13192,
+            "ADDRESS": "Sector-102 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2125\/3\/42503345T-1443020644.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "I20495679": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5434024",
+            "LNG": "77.3852425",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3000000,
+              "max": 3000000
+            },
+            "AREA": "766 Sq.Ft.",
+            "LOCALITY_ID": 13192,
+            "ADDRESS": "Sector-102 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2125\/3\/42503251T-1443020604.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "R21010019": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5567884",
+            "LNG": "77.3744487",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1150000,
+              "max": 1150000
+            },
+            "AREA": "450 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2121\/17\/42437253T-1442954344.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "L20127849": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5434024",
+            "LNG": "77.3852425",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1850000,
+              "max": 1850000
+            },
+            "AREA": "463 Sq.Ft.",
+            "LOCALITY_ID": 13192,
+            "ADDRESS": "Sector-102 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2125\/3\/42503299T-1443020589.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "M21010203": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.5567884",
+            "LNG": "77.3744487",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1150000,
+              "max": 1150000
+            },
+            "AREA": "450 Sq.Ft.",
+            "PROJ_NAME": "Shubham Apartment",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Shubham Apartment, Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2121\/17\/42437323T-1442954417.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "F18525671": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.54522265072",
+            "LNG": "77.367872798148",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 6500000,
+              "max": 6500000
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Noida Authority Flat",
+            "LOCALITY_ID": 7804,
+            "ADDRESS": "Noida Authority flat, Sector-100 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1553\/13\/31073291T-1426511402.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "W18347043": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.548010384901",
+            "LNG": "77.376741084131",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 5403000,
+              "max": 5403000
+            },
+            "AREA": "988 Sq.Ft.",
+            "PROJ_NAME": "Lotus Panache",
+            "LOCALITY_ID": 162,
+            "ADDRESS": "LOTUS PANACHE, Sector-107 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1525\/7\/30507713T-1425470910.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "W18347865": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.560969120592",
+            "LNG": "77.389036643655",
+            "BEDROOM_NUM": 4,
+            "PRICE_RANGE": {
+              "min": 20900000,
+              "max": 20900000
+            },
+            "AREA": "2870 Sq.Ft.",
+            "PROJ_NAME": "Mahagun Moderne By Mahagun Group",
+            "LOCALITY_ID": 8398,
+            "ADDRESS": "Mahagun Moderne by Mahagun Group, Sector-78 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1525\/9\/30509963T-1425472526.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "P20167697": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.547537227227",
+            "LNG": "77.392486373511",
+            "PRICE_RANGE": {
+              "min": 2399000,
+              "max": 2399000
+            },
+            "AREA": "100 Sq. Yards",
+            "PROJ_NAME": "S B Enclave",
+            "LOCALITY_ID": 152,
+            "ADDRESS": "S B ENCLAVE, Sector-81 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1886\/12\/37732821T-1436533722.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "H21466697": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.556678681297",
+            "LNG": "77.374181640723",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 2300000,
+              "max": 2300000
+            },
+            "AREA": "50 Sq. Yards",
+            "PROJ_NAME": "Ashu Apartment",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Ashu Apartment, Sector-49 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2115\/2\/42302727T-1442821313.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "J21281294": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.549309005929",
+            "LNG": "77.395898143378",
+            "PRICE_RANGE": {
+              "min": 1121000,
+              "max": 1121000
+            },
+            "AREA": "51 Sq. Yards",
+            "PROJ_NAME": "S B Enclave",
+            "LOCALITY_ID": 152,
+            "ADDRESS": "S B ENCLAVE, Sector-81 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2073\/17\/41477218T-1441791784.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "E21474733": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.514665280178",
+            "LNG": "77.408772392065",
+            "BEDROOM_NUM": 5,
+            "PRICE_RANGE": {
+              "min": 40000000,
+              "max": 40000000
+            },
+            "AREA": "25 Acres",
+            "PROJ_NAME": "Noida World One",
+            "LOCALITY_ID": 7858,
+            "ADDRESS": "Noida world one, Sector-137 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2116\/17\/42337767T-1442845460.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "T20349119": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.545030297934",
+            "LNG": "77.397185603705",
+            "PRICE_RANGE": {
+              "min": 2772000,
+              "max": 2772000
+            },
+            "AREA": "130 Sq. Yards",
+            "PROJ_NAME": "S B Enclave",
+            "LOCALITY_ID": 152,
+            "ADDRESS": "S B ENCLAVE, Sector-81 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1886\/11\/37731113T-1436516274.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "O21465869": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.556904847835",
+            "LNG": "77.374138725378",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "75 Sq. Yards",
+            "PROJ_NAME": "Ashu Apartment",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Ashu Apartment, Sector-49 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2114\/19\/42299069T-1442819179.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "J21464979": {
+            "PROP_TYPE": "Studio Apt.",
+            "LAT": "28.55142133572",
+            "LNG": "77.410826379593",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1800000,
+              "max": 1800000
+            },
+            "AREA": "400 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "Symbolic Homes, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2114\/16\/42296113T-1442817508.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "M21465445": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.556970812988",
+            "LNG": "77.374964845755",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 6500000,
+              "max": 6500000
+            },
+            "AREA": "1260 Sq.Ft.",
+            "PROJ_NAME": "Ashu Apartment",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Ashu Apartment, Sector-49 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2114\/17\/42297765T-1442818405.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Z21464009": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.552740699558",
+            "LNG": "77.411470109756",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 4800000,
+              "max": 4800000
+            },
+            "AREA": "1160 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "Symbolic Homes, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2114\/13\/42293143T-1442815385.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "S19953077": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.53188795167",
+            "LNG": "77.400864473016",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3200000,
+              "max": 3200000
+            },
+            "AREA": "665 Sq.Ft.",
+            "PROJ_NAME": "Ajnara Le- Garden",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Ajnara Le- Garden, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "A21456195": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.549619669469",
+            "LNG": "77.368284356592",
+            "PRICE_RANGE": {
+              "min": 73100000,
+              "max": 73100000
+            },
+            "AREA": "450 Sq. Meter",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "L21456287": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.547953214804",
+            "LNG": "77.403831178482",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3400000,
+              "max": 3400000
+            },
+            "AREA": "820 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "Symbolic Homes, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2113\/6\/42266127T-1442736197.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "S21456217": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.526672021458",
+            "LNG": "77.380462758228",
+            "PRICE_RANGE": {
+              "min": 20000000,
+              "max": 20000000
+            },
+            "AREA": "200 Sq. Meter",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "Sector-108 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "D21456521": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.54851867709",
+            "LNG": "77.404346162613",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 2444000,
+              "max": 2444000
+            },
+            "AREA": "600 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "Symbolic Homes, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2113\/6\/42266855T-1442737266.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "V19687199": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531543908165",
+            "LNG": "77.395183554323",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 3748000,
+              "max": 3748000
+            },
+            "AREA": "1015 Sq.Ft.",
+            "PROJ_NAME": "Ajnara Le-garden",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Ajnara Le-Garden, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1750\/4\/35004723T-1432797140.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "D21172902": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532429",
+            "LNG": "77.407508",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "910 Sq.Ft.",
+            "PROJ_NAME": "5vallue",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "5vallue, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2048\/2\/40962152T-1441185362.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Y14659023": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.523590875022",
+            "LNG": "77.389755249023",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 15250000,
+              "max": 15250000
+            },
+            "AREA": "2290 Sq.Ft.",
+            "PROJ_NAME": "Supertech Emeraled Court",
+            "LOCALITY_ID": 11014,
+            "ADDRESS": "Supertech Emeraled Court, Sector-93 A Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/932\/18\/18658270T-1431663530.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "F21381266": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.531963358316",
+            "LNG": "77.401186338098",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1950000,
+              "max": 1950000
+            },
+            "AREA": "1 Acres",
+            "PROJ_NAME": "Krishna Residency",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Krishna Residency, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2096\/12\/41932982T-1442318141.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "I13911313": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532429",
+            "LNG": "77.407508",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3456000,
+              "max": 3456000
+            },
+            "AREA": "1080 Sq.Ft.",
+            "PROJ_NAME": "Avj Ace City",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "avj ace city, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/832\/2\/16642266T-1442219502.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "W21338974": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.550403529468",
+            "LNG": "77.40998953038",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "1200 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "Symbolic Homes, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2087\/15\/41755260T-1442055844.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "I14070337": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532429",
+            "LNG": "77.407508",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2225000,
+              "max": 2225000
+            },
+            "AREA": "800 Sq.Ft.",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "M21298812": {
+            "PROP_TYPE": "Studio Apt.",
+            "LAT": "28.554122776149",
+            "LNG": "77.408220020654",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 2000000,
+              "max": 2000000
+            },
+            "AREA": "440 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "symbolic Homes, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2078\/1\/41561958T-1441877832.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "B19116423": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.516744",
+            "LNG": "77.3976979",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 22500000,
+              "max": 22500000
+            },
+            "AREA": "267 Sq. Yards",
+            "LOCALITY_ID": 93,
+            "ADDRESS": "Sector-92 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1676\/13\/33533773T-1441881581.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "G17566685": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5419616744",
+            "LNG": "77.36369928092",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 20000000,
+              "max": 20000000
+            },
+            "AREA": "200 Sq. Meter",
+            "LOCALITY_ID": 7804,
+            "ADDRESS": "Sector-100 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1414\/13\/28293329T-1425016331.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "X19221511": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.5318691",
+            "LNG": "77.4008001",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3536000,
+              "max": 3536000
+            },
+            "AREA": "831 Sq.Ft.",
+            "PROJ_NAME": "On Request",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "On Request, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1943\/17\/38877563T-1438230726.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "A19221899": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.5318691",
+            "LNG": "77.4008001",
+            "BEDROOM_NUM": 4,
+            "PRICE_RANGE": {
+              "min": 8000000,
+              "max": 8000000
+            },
+            "AREA": "2000 Sq.Ft.",
+            "PROJ_NAME": "On Request",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "On Request, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1943\/17\/38877217T-1438230442.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "M15695853": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5318691",
+            "LNG": "77.4008001",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2400000,
+              "max": 2400000
+            },
+            "AREA": "850 Sq.Ft.",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2071\/9\/41429622T-1441728030.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "C19687529": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.557583344535",
+            "LNG": "77.375769508459",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1500000,
+              "max": 1500000
+            },
+            "AREA": "35 Sq. Yards",
+            "PROJ_NAME": "Adarsh Group",
+            "LOCALITY_ID": 13256,
+            "ADDRESS": "adarsh group, Baraula, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1750\/6\/35006187T-1432797787.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "J19703027": {
+            "PROP_TYPE": "Serviced Apt.",
+            "LAT": "28.543160483565",
+            "LNG": "77.395219435382",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1466520,
+              "max": 1466520
+            },
+            "AREA": "439 Sq.Ft.",
+            "PROJ_NAME": "Nimi Group",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "nimi group, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1753\/7\/35067669T-1432883154.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "J19687867": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.557184179792",
+            "LNG": "77.375575237048",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2500000,
+              "max": 2500000
+            },
+            "AREA": "55 Sq. Yards",
+            "PROJ_NAME": "Adarsh Grou",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "ADARSH GROU, Sector-49 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1750\/7\/35007343T-1432798968.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Y19477549": {
+            "PROP_TYPE": "Studio Apt.",
+            "LAT": "28.541286717443",
+            "LNG": "77.407919613245",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 2075000,
+              "max": 2075000
+            },
+            "AREA": "400 Sq.Ft.",
+            "PROJ_NAME": "Hyde Park",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "Hyde park, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1708\/12\/34172431T-1431524166.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "E20098389": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.519704356585",
+            "LNG": "77.39376710105",
+            "PRICE_RANGE": {
+              "min": 25100000,
+              "max": 25100000
+            },
+            "AREA": "300 Sq. Meter",
+            "PROJ_NAME": "Residential",
+            "LOCALITY_ID": 93,
+            "ADDRESS": "Residential, Sector-92 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "J11499243": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.514857733603",
+            "LNG": "77.389068603516",
+            "PRICE_RANGE": {
+              "min": 33100000,
+              "max": 33100000
+            },
+            "AREA": "300 Sq. Meter",
+            "PROJ_NAME": "A Block",
+            "LOCALITY_ID": 11016,
+            "ADDRESS": "A BLOCK, Sector-93 B Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/575\/3\/11503570T-1437925081.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "U18960197": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5570861",
+            "LNG": "77.3756752",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 5300000,
+              "max": 5300000
+            },
+            "AREA": "1250 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1844\/3\/36883195T-1435361827.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "N21190458": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5494683",
+            "LNG": "77.3745285",
+            "BEDROOM_NUM": 5,
+            "PRICE_RANGE": {
+              "min": 20000000,
+              "max": 20000000
+            },
+            "AREA": "3000 Sq.Ft.",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2058\/4\/41164820T-1441367632.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "K6243525": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.523002655378",
+            "LNG": "77.367782592773",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 16146000,
+              "max": 16146000
+            },
+            "AREA": "2070 Sq.Ft.",
+            "PROJ_NAME": "Jaypee Knights Court",
+            "LOCALITY_ID": 6166,
+            "ADDRESS": "Jaypee Knights Court, Sector-128 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/469\/5\/9385372T-1441089958.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "U20149933": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532765",
+            "LNG": "77.406328",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 5712000,
+              "max": 5712000
+            },
+            "AREA": "1360 Sq.Ft.",
+            "PROJ_NAME": "Gaur City 1 Avenue",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Gaur City 1 Avenue, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1886\/0\/37720143T-1436510783.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "P19521297": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532859",
+            "LNG": "77.406713",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1500000,
+              "max": 1500000
+            },
+            "AREA": "449.1 Sq.Ft.",
+            "PROJ_NAME": "Shri Sai Upvan",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Shri Sai Upvan, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2032\/0\/40640506T-1440620176.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "H16000367": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5245642",
+            "LNG": "77.3925066",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 2000000,
+              "max": 2000000
+            },
+            "AREA": "500 Sq.Ft.",
+            "LOCALITY_ID": 153,
+            "ADDRESS": "Sector-82 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "A19556945": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532859",
+            "LNG": "77.406713",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1399000,
+              "max": 1399000
+            },
+            "AREA": "447.8 Sq.Ft.",
+            "PROJ_NAME": "Shri Sai Upvan",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Shri Sai Upvan, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2032\/0\/40640590T-1440620329.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "J19505991": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532859",
+            "LNG": "77.406713",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1490000,
+              "max": 1490000
+            },
+            "AREA": "450.89 Sq.Ft.",
+            "PROJ_NAME": "Shri Sai Upvan",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Shri Sai Upvan, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2032\/0\/40640526T-1440620164.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "G19344009": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532859",
+            "LNG": "77.406713",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1375000,
+              "max": 1375000
+            },
+            "AREA": "444 Sq.Ft.",
+            "PROJ_NAME": "Shri Sai Upvan",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Shri Sai Upvan, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2032\/0\/40640562T-1440620338.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "H21074610": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.54799868639",
+            "LNG": "77.370515954492",
+            "PRICE_RANGE": {
+              "min": 33000000,
+              "max": 33000000
+            },
+            "AREA": "300 Sq. Meter",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "T18077549": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532133023071",
+            "LNG": "77.405907025964",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1300450,
+              "max": 1300450
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1485\/12\/29712691T-1424732905.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "B18107829": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531906803337",
+            "LNG": "77.406143060358",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2100458,
+              "max": 2100458
+            },
+            "AREA": "750 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1490\/13\/29813019T-1424795574.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "F18125591": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532076468183",
+            "LNG": "77.405842652948",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1450950,
+              "max": 1450950
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1493\/5\/29865109T-1424334753.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "M18033993": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532019913265",
+            "LNG": "77.405842652948",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2156090,
+              "max": 2156090
+            },
+            "AREA": "750 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1480\/4\/29604519T-1424666435.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "X18218195": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531737138217",
+            "LNG": "77.405628076227",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1313000,
+              "max": 1313000
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1507\/11\/30151889T-1424858831.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "V17953755": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531982209969",
+            "LNG": "77.40616451803",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1400564,
+              "max": 1400564
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "A17940149": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532189577929",
+            "LNG": "77.405585160883",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1387000,
+              "max": 1387000
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1467\/9\/29349655T-1424640475.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "W18011145": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532001061619",
+            "LNG": "77.406808248193",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2100059,
+              "max": 2100059
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1476\/15\/29535217T-1424756047.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "S17913379": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531925655",
+            "LNG": "77.405670991571",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2150947,
+              "max": 2150947
+            },
+            "AREA": "900 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1463\/12\/29272291T-1424587211.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "K18106923": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531906803336",
+            "LNG": "77.406936994226",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2004760,
+              "max": 2004760
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1490\/11\/29811029T-1424794369.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "O18013271": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532057616547",
+            "LNG": "77.40627180639",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1450689,
+              "max": 1450689
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1477\/0\/29540899T-1424759335.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "N17896017": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532095319816",
+            "LNG": "77.406781426103",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1473000,
+              "max": 1473000
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1460\/17\/29217453T-1424550905.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "E17894367": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532038764909",
+            "LNG": "77.406250348718",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2149000,
+              "max": 2149000
+            },
+            "AREA": "900 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1460\/13\/29213485T-1424548735.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "E18174881": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531925655",
+            "LNG": "77.405499330194",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1368000,
+              "max": 1368000
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1500\/18\/30018097T-1424601124.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "L17911653": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532962491278",
+            "LNG": "77.406556120546",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1450789,
+              "max": 1450789
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihoms",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihoms, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1463\/7\/29267875T-1424584374.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "H18184543": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531633453843",
+            "LNG": "77.407489529283",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1456087,
+              "max": 1456087
+            },
+            "AREA": "550 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1502\/3\/30043661T-1424686233.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "G18175067": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532378093903",
+            "LNG": "77.40586411062",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2045790,
+              "max": 2045790
+            },
+            "AREA": "750 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1500\/18\/30018669T-1424602204.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "Q18077793": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531944506659",
+            "LNG": "77.406593671472",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2095687,
+              "max": 2095687
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1485\/13\/29713555T-1424733375.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "B18012681": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532114171446",
+            "LNG": "77.406121602686",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1450048,
+              "max": 1450048
+            },
+            "AREA": "650 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1476\/19\/29539185T-1424758421.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "J17954539": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532406371271",
+            "LNG": "77.406684866579",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2100489,
+              "max": 2100489
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1469\/1\/29381795T-1424658618.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "P18051637": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532481777545",
+            "LNG": "77.406556120546",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2100590,
+              "max": 2100590
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1482\/15\/29655817T-1424701774.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "N18034613": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.532038764908",
+            "LNG": "77.405756822259",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2174800,
+              "max": 2174800
+            },
+            "AREA": "850 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1480\/6\/29606221T-1424667277.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "A18035067": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5318691",
+            "LNG": "77.406293264062",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1453890,
+              "max": 1453890
+            },
+            "AREA": "800 Sq.Ft.",
+            "PROJ_NAME": "Saihomz",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "saihomz, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1480\/7\/29607393T-1424667884.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "M15174009": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.53552",
+            "LNG": "77.39103",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1350000,
+              "max": 1350000
+            },
+            "AREA": "580 Sq.Ft.",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "noida extention, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1004\/7\/20087742T-1440404565.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "A21035837": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531680583117",
+            "LNG": "77.400928846033",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2900000,
+              "max": 2900000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Eco Village 2",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Eco village 2, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2023\/0\/40460201T-1440331622.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "R15574513": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.534926263175",
+            "LNG": "77.369902067151",
+            "PRICE_RANGE": {
+              "min": 37800000,
+              "max": 37800000
+            },
+            "AREA": "472 Sq. Meter",
+            "PROJ_NAME": "A Block",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "A BLOCK, sector 108, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1064\/11\/21291367T-1438243962.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "I15555947": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.534140022262",
+            "LNG": "77.372576396851",
+            "PRICE_RANGE": {
+              "min": 23100000,
+              "max": 23100000
+            },
+            "AREA": "300 Sq. Meter",
+            "PROJ_NAME": "B , Sector-105 Noda",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "B , sector-105 noda, Sector-105 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "L16098217": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.51889363804",
+            "LNG": "77.392307979346",
+            "PRICE_RANGE": {
+              "min": 18500000,
+              "max": 18500000
+            },
+            "AREA": "250 Sq. Meter",
+            "PROJ_NAME": "Block B Sector 92",
+            "LOCALITY_ID": 93,
+            "ADDRESS": "BLOCK B SECTOR 92, Sector-92 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1135\/4\/22704819T-1437925433.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Z14795925": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.516724333746",
+            "LNG": "77.388746738434",
+            "PRICE_RANGE": {
+              "min": 37500000,
+              "max": 37500000
+            },
+            "AREA": "300 Sq. Meter",
+            "PROJ_NAME": "A Lock Residential Plot Sector 93 B",
+            "LOCALITY_ID": 11016,
+            "ADDRESS": "A LOCK RESIDENTIAL PLOT SECTOR 93 B, Sector-93 B Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/952\/0\/19040048T-1437792752.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "H20102701": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.554075436863",
+            "LNG": "77.408283053967",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 7000000,
+              "max": 7000000
+            },
+            "AREA": "1240 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "SYMBOLIC Homes, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1833\/14\/36674007T-1435147565.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "X19673761": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.541182822377",
+            "LNG": "77.407982646558",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1349550,
+              "max": 1349550
+            },
+            "AREA": "449 Sq.Ft.",
+            "PROJ_NAME": "Skyon",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "skyon, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1747\/12\/34952767T-1432717328.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "F20299461": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.538323910571",
+            "LNG": "77.397013942328",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2300000,
+              "max": 2300000
+            },
+            "AREA": "980 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1875\/14\/37514015T-1436248639.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "N20262543": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.534893060659",
+            "LNG": "77.40310792121",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1353000,
+              "max": 1353000
+            },
+            "AREA": "570 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1867\/19\/37359589T-1435995994.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "F20077683": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.541099612603",
+            "LNG": "77.396944204894",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2200000,
+              "max": 2200000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "sai dham, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1829\/3\/36583015T-1435039129.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "J20299021": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.540114694445",
+            "LNG": "77.396756450263",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1301000,
+              "max": 1301000
+            },
+            "AREA": "565 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1875\/11\/37511361T-1436246588.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "A19691537": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.556242838088",
+            "LNG": "77.375544202902",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 6500000,
+              "max": 6500000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Adarsh Group",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "adarsh group, Sector-49 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1751\/2\/35022901T-1432809546.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "X20261477": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.534893060659",
+            "LNG": "77.403537074652",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2550000,
+              "max": 2550000
+            },
+            "AREA": "935 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1867\/15\/37355615T-1435993031.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "X20077139": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.535997372526",
+            "LNG": "77.419445147205",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1300000,
+              "max": 1300000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "sai dham, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1829\/0\/36580609T-1435037110.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "K20261155": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.535477444089",
+            "LNG": "77.40928773078",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2400000,
+              "max": 2400000
+            },
+            "AREA": "910 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1867\/14\/37354635T-1435992263.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "O20262155": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.535156976157",
+            "LNG": "77.407892982092",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2500000,
+              "max": 2500000
+            },
+            "AREA": "985 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1867\/17\/37357879T-1435994651.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "C20261917": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.535156976159",
+            "LNG": "77.409952918616",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1400000,
+              "max": 1400000
+            },
+            "AREA": "560 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1867\/16\/37356991T-1435994134.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "Y20197453": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.535006167382",
+            "LNG": "77.402335445013",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1300000,
+              "max": 1300000
+            },
+            "AREA": "560 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1854\/2\/37082199T-1435674121.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "P19595341": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.541635221533",
+            "LNG": "77.408197223279",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2966370,
+              "max": 2966370
+            },
+            "AREA": "875 Sq.Ft.",
+            "PROJ_NAME": "Skyon",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "skyon, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1730\/16\/34616783T-1432209440.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "B20260129": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.534723400347",
+            "LNG": "77.402721683112",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2535000,
+              "max": 2535000
+            },
+            "AREA": "920 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1867\/11\/37351619T-1435989549.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "M20077881": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.536029440201",
+            "LNG": "77.42078062439",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2500000,
+              "max": 2500000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "sai dham, Phase-II, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1829\/3\/36583883T-1435039512.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "D19711243": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.557759016032",
+            "LNG": "77.376009754909",
+            "BEDROOM_NUM": 4,
+            "PRICE_RANGE": {
+              "min": 6000000,
+              "max": 6000000
+            },
+            "AREA": "135 Sq. Yards",
+            "PROJ_NAME": "Adarsh Apartment",
+            "LOCALITY_ID": 13256,
+            "ADDRESS": "Adarsh Apartment, Baraula, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1755\/3\/35103019T-1432904171.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "A20292147": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.530184956379",
+            "LNG": "77.408883317999",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2300000,
+              "max": 2300000
+            },
+            "AREA": "985 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 8191,
+            "ADDRESS": "Sai dham, Hosiery Complex, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1873\/15\/37475993T-1436184913.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "W20197857": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.53572250714",
+            "LNG": "77.410231868353",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2550000,
+              "max": 2550000
+            },
+            "AREA": "910 Sq.Ft.",
+            "PROJ_NAME": "Sai Dham",
+            "LOCALITY_ID": 16760,
+            "ADDRESS": "Sai Dham, NSEZ, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1854\/4\/37084233T-1435675764.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "S21005827": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.53188795167",
+            "LNG": "77.400564065607",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2990000,
+              "max": 2990000
+            },
+            "AREA": "870 Sq.Ft.",
+            "PROJ_NAME": "Amaatra",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "amaatra, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2016\/3\/40323451T-1440176767.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "P20991243": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.550416015388",
+            "LNG": "77.372849476335",
+            "PRICE_RANGE": {
+              "min": 42000000,
+              "max": 42000000
+            },
+            "AREA": "300 Sq. Meter",
+            "PROJ_NAME": "Rwa Society",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "RWA SOCIETY, Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2012\/16\/40256017T-1440075786.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "T20804783": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5557963",
+            "LNG": "77.3722984",
+            "BEDROOM_NUM": 6,
+            "PRICE_RANGE": {
+              "min": 59999000,
+              "max": 59999000
+            },
+            "AREA": "3000 Sq.Ft.",
+            "LOCALITY_ID": 100,
+            "ADDRESS": "Sector-48 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/img.youtube.com\/vi\/Ar4m-CkHRo4\/mqdefault.jpg",
+              "type": "video"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Q12691111": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.519874789256",
+            "LNG": "77.392992188106",
+            "PRICE_RANGE": {
+              "min": 26200000,
+              "max": 26200000
+            },
+            "AREA": "300 Sq. Meter",
+            "LOCALITY_ID": 93,
+            "ADDRESS": "Sector-92 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "O19060765": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.53411242504",
+            "LNG": "77.398074975641",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3160000,
+              "max": 3160000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Panchsheel Greens-ii",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Panchsheel Greens-II, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1637\/7\/32747835T-1429183989.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "D20876063": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.55995581111",
+            "LNG": "77.393060676782",
+            "PRICE_RANGE": {
+              "min": 3200000,
+              "max": 3200000
+            },
+            "AREA": "100 Sq. Yards",
+            "PROJ_NAME": "Ghari Chaukhandi",
+            "LOCALITY_ID": 8398,
+            "ADDRESS": "GHARI CHAUKHANDI, Sector-78 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "R19145565": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.535168090883",
+            "LNG": "77.397345414789",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1149000,
+              "max": 1149000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Welfare Society",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Welfare Society, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1650\/8\/33008665T-1429681205.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "I15599895": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.534657572824",
+            "LNG": "77.382374264526",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 999000,
+              "max": 999000
+            },
+            "AREA": "325 Sq.Ft.",
+            "PROJ_NAME": "Godwin Apartments",
+            "LOCALITY_ID": 163,
+            "ADDRESS": "Godwin Apartments, Sector-110 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1068\/5\/21365795T-1439275588.bmp",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "V19110439": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531454362411",
+            "LNG": "77.402795663507",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4812000,
+              "max": 4812000
+            },
+            "AREA": "983 Sq.Ft.",
+            "PROJ_NAME": "Rg Luxury Homes",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Rg Luxury Homes, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1644\/6\/32886903T-1439274935.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "L20835859": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.548828029688",
+            "LNG": "77.365709435938",
+            "PRICE_RANGE": {
+              "min": 56250000,
+              "max": 56250000
+            },
+            "AREA": "450 Sq. Meter",
+            "PROJ_NAME": "Sector 47",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "sector 47, Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1979\/19\/39599819T-1439207471.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "U20514825": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532765",
+            "LNG": "77.406328",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3397000,
+              "max": 3397000
+            },
+            "AREA": "860 Sq.Ft.",
+            "PROJ_NAME": "Gaur City 1 Avenue",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Gaur City 1 Avenue, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1970\/1\/39401773T-1438897437.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "L20352619": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.532765",
+            "LNG": "77.406328",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3650000,
+              "max": 3650000
+            },
+            "AREA": "860 Sq.Ft.",
+            "PROJ_NAME": "Gaur City 1 Avenue",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Gaur City 1 Avenue, Noida Extension, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1970\/1\/39401715T-1438897275.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Y19026105": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531567472827",
+            "LNG": "77.407897225053",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2521000,
+              "max": 2521000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Amrapali Verona Heights",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "AMRAPALI VERONA HEIGHTS, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1630\/17\/32617901T-1429008182.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "D20113431": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5568003",
+            "LNG": "77.3732126",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "850 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1909\/15\/38195181T-1437205933.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "A20111137": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5563639",
+            "LNG": "77.3743365",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "850 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1909\/15\/38195017T-1437205873.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "P18047577": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.5570519",
+            "LNG": "77.3741886",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "900 Sq.Ft.",
+            "PROJ_NAME": "Kohli Vihar",
+            "LOCALITY_ID": 13256,
+            "ADDRESS": "kohli vihar, Baraula, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1488\/16\/29776985T-1438673561.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Y19753343": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5349132",
+            "LNG": "77.3721674",
+            "BEDROOM_NUM": 8,
+            "PRICE_RANGE": {
+              "min": 31000000,
+              "max": 31000000
+            },
+            "AREA": "200 Sq. Meter",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "Sector-105 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1764\/18\/35298739T-1433246858.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "V20501179": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.527278813958",
+            "LNG": "77.372089833932",
+            "BEDROOM_NUM": 4,
+            "PRICE_RANGE": {
+              "min": 18250000,
+              "max": 18250000
+            },
+            "AREA": "2785 Sq.Ft.",
+            "PROJ_NAME": "Prateek Edific",
+            "LOCALITY_ID": 8094,
+            "ADDRESS": "prateek edific, Noida-Greater Noida Expressway, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1912\/15\/38255255T-1437379754.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "D20685387": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.553719555905",
+            "LNG": "77.369273919018",
+            "PRICE_RANGE": {
+              "min": 75000000,
+              "max": 75000000
+            },
+            "AREA": "500 Sq. Yards",
+            "PROJ_NAME": "D Block",
+            "LOCALITY_ID": 100,
+            "ADDRESS": "D Block, Sector-48 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "R20558419": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.52275517887",
+            "LNG": "77.376814657147",
+            "PRICE_RANGE": {
+              "min": 21500000,
+              "max": 21500000
+            },
+            "AREA": "200 Sq. Meter",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "Sector-108 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "U20666971": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531586324548",
+            "LNG": "77.399555555017",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 1950000,
+              "max": 1950000
+            },
+            "AREA": "720 Sq.Ft.",
+            "PROJ_NAME": "Dream Homes",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Dream Homes, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1945\/8\/38908837T-1438250101.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "L20640295": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5340348",
+            "LNG": "77.3686147",
+            "BEDROOM_NUM": 12,
+            "PRICE_RANGE": {
+              "min": 90000000,
+              "max": 90000000
+            },
+            "AREA": "457.5 Sq. Meter",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "Sector-105 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1942\/17\/38857255T-1438181291.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "T18411111": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5135413",
+            "LNG": "77.3863348",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 69750000,
+              "max": 69750000
+            },
+            "AREA": "450 Sq. Meter",
+            "LOCALITY_ID": 11016,
+            "ADDRESS": "Sector-93 B Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1544\/16\/30896909T-1438080498.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "C20630931": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.527005256509",
+            "LNG": "77.399748674066",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 1950000,
+              "max": 1950000
+            },
+            "AREA": "720 Sq.Ft.",
+            "PROJ_NAME": "Dream Homes",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Dream Homes, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1937\/9\/38749869T-1438068558.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "O17846359": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5570519",
+            "LNG": "77.3741886",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 4000000,
+              "max": 4000000
+            },
+            "AREA": "900 Sq.Ft.",
+            "LOCALITY_ID": 13256,
+            "ADDRESS": "Baraula, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1488\/13\/29773945T-1438082834.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "K20631481": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.531831396651",
+            "LNG": "77.398654332788",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 1800000,
+              "max": 1800000
+            },
+            "AREA": "725 Sq.Ft.",
+            "PROJ_NAME": "Dreams",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Dreams, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1937\/11\/38751259T-1438070060.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "H17262796": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.528173927899",
+            "LNG": "77.4077974",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2755000,
+              "max": 2755000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Amrapali Kings Wood",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Amrapali Kings wood, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1372\/0\/27440900T-1437911805.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "T17363635": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.530662406414",
+            "LNG": "77.407368246558",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3960000,
+              "max": 3960000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Amrapali Kings Wood",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Amrapali kings Wood, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/2019\/9\/40389625T-1440226901.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "H17363475": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531001739841",
+            "LNG": "77.407582823279",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3118000,
+              "max": 3118000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Amrapali Kings Wood",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Amrapali Kings Wood, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1384\/19\/27699725T-1437910541.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "Z20529655": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5576589",
+            "LNG": "77.3762255",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2800000,
+              "max": 2800000
+            },
+            "AREA": "750 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1924\/19\/38499621T-1437680771.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "L20494529": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.518426838401",
+            "LNG": "77.413007845569",
+            "PRICE_RANGE": {
+              "min": 25000000,
+              "max": 25000000
+            },
+            "AREA": "400 Sq. Yards",
+            "LOCALITY_ID": 5444,
+            "ADDRESS": "Phase-ii, Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "G13698861": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.549393910925",
+            "LNG": "77.370615005493",
+            "BEDROOM_NUM": 7,
+            "PRICE_RANGE": {
+              "min": 72500000,
+              "max": 72500000
+            },
+            "AREA": "300 Sq. Meter",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Z20450869": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.512481524296",
+            "LNG": "77.391379169311",
+            "PRICE_RANGE": {
+              "min": 39900000,
+              "max": 39900000
+            },
+            "AREA": "450 Sq. Meter",
+            "PROJ_NAME": "Sector-93 B Noida, Sector-93 Noida, Noida-greate",
+            "LOCALITY_ID": 11016,
+            "ADDRESS": "Sector-93 b noida, sector-93 noida, noida-greate, Sector-93 B Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1904\/0\/38080933T-1437050590.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "X18050907": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5301771",
+            "LNG": "77.378254",
+            "BEDROOM_NUM": 7,
+            "PRICE_RANGE": {
+              "min": 50000000,
+              "max": 50000000
+            },
+            "AREA": "300 Sq. Meter",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "Sector-108 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1486\/3\/29723535T-1436959131.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "C19810605": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5590155",
+            "LNG": "77.3759739",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4500000,
+              "max": 4500000
+            },
+            "AREA": "900 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1900\/10\/38010351T-1436972213.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "C20383643": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.527849891125",
+            "LNG": "77.366474057147",
+            "PRICE_RANGE": {
+              "min": 27500000,
+              "max": 27500000
+            },
+            "AREA": "250 Sq. Meter",
+            "PROJ_NAME": "Sector-105 Noida, Noida-greater Noida Expressway",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "Sector-105 noida, noida-greater noida expressway, Sector-105 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "R20383709": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.524177018345",
+            "LNG": "77.371048049738",
+            "PRICE_RANGE": {
+              "min": 21400000,
+              "max": 21400000
+            },
+            "AREA": "204 Sq. Meter",
+            "PROJ_NAME": "Sector-108 Noida, Noida-greater Noida Expressway",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "Sector-108 noida, noida-greater noida expressway, Sector-108 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "Y20366997": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.55554554703",
+            "LNG": "77.408304511639",
+            "BEDROOM_NUM": 3,
+            "PRICE_RANGE": {
+              "min": 3800000,
+              "max": 3800000
+            },
+            "AREA": "1400 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "SYMBOLIC Homes, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "O17008333": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5588775",
+            "LNG": "77.3759805",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2500000,
+              "max": 2500000
+            },
+            "AREA": "700 Sq.Ft.",
+            "LOCALITY_ID": 101,
+            "ADDRESS": "Sector-49 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1346\/8\/26928765T-1436506229.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "V17185126": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.5239356",
+            "LNG": "77.3923197",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 3500000,
+              "max": 3500000
+            },
+            "AREA": "400 Sq.Ft.",
+            "LOCALITY_ID": 153,
+            "ADDRESS": "Sector-82 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1361\/0\/27220582T-1436431916.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "I20210419": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5512047",
+            "LNG": "77.374045",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 18000000,
+              "max": 18000000
+            },
+            "AREA": "1450 Sq.Ft.",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1861\/17\/37237273T-1435867389.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "M20183093": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.549468881398",
+            "LNG": "77.365752351282",
+            "PRICE_RANGE": {
+              "min": 51800000,
+              "max": 51800000
+            },
+            "AREA": "450 Sq. Meter",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "M18462273": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531906803336",
+            "LNG": "77.400671353967",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 4012000,
+              "max": 4012000
+            },
+            "AREA": "1100 Sq.Ft.",
+            "PROJ_NAME": "Nirala Aspire",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Nirala Aspire, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1544\/8\/30888723T-1426165314.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "L20156543": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.517966331499",
+            "LNG": "77.371283942158",
+            "PRICE_RANGE": {
+              "min": 100000000,
+              "max": 100000000
+            },
+            "AREA": "430 Sq. Yards",
+            "PROJ_NAME": "Jaypee Wish Town",
+            "LOCALITY_ID": 6166,
+            "ADDRESS": "JAYPEE WISH TOWN, Sector-128 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "V14236571": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531221310351",
+            "LNG": "77.407794592436",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 3684025,
+              "max": 3684025
+            },
+            "AREA": "1075 Sq.Ft.",
+            "PROJ_NAME": "Parmount Emotion",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Parmount Emotion, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/873\/11\/17471674T-1435304868.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "O16345129": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.5506083",
+            "LNG": "77.3730741",
+            "BEDROOM_NUM": 6,
+            "PRICE_RANGE": {
+              "min": 26000000,
+              "max": 26000000
+            },
+            "AREA": "112.5 Sq.Ft.",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1173\/16\/23476698T-1434972637.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "R18820695": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.528255628058",
+            "LNG": "77.377415768787",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 12000000,
+              "max": 12000000
+            },
+            "AREA": "112.05 Sq. Meter",
+            "PROJ_NAME": "Independent Plot In Sector 108 Noida",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "Independent Plot in sector 108 Noida, Sector-108 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1598\/8\/31968867T-1427905833.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "R15999553": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.516029996375",
+            "LNG": "77.38477890741",
+            "BEDROOM_NUM": 4,
+            "PRICE_RANGE": {
+              "min": 15053850,
+              "max": 15053850
+            },
+            "AREA": "2430 Sq.Ft.",
+            "PROJ_NAME": "Parsvnath Prestige",
+            "LOCALITY_ID": 95,
+            "ADDRESS": "Parsvnath Prestige, Sector-93A, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1121\/13\/22433911T-1425713435.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "F19902033": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.55586595293",
+            "LNG": "77.408969699475",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1549000,
+              "max": 1549000
+            },
+            "AREA": "400 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Home",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "Symbolic Home, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1793\/10\/35870373T-1434012846.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "U19880661": {
+            "PROP_TYPE": "Builder Floor",
+            "LAT": "28.555724817554",
+            "LNG": "77.406846729639",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2249000,
+              "max": 2249000
+            },
+            "AREA": "700 Sq.Ft.",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "Symbolic Homes, Sector 80, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1789\/0\/35780719T-1433996764.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "Z19419393": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.531666444337",
+            "LNG": "77.401704004438",
+            "BEDROOM_NUM": 2,
+            "PRICE_RANGE": {
+              "min": 2743500,
+              "max": 2743500
+            },
+            "AREA": "752 Sq.Ft.",
+            "PROJ_NAME": "Amrapali Centurian Park Terrace Homes",
+            "LOCALITY_ID": 8232,
+            "ADDRESS": "Amrapali Centurian Park Terrace Homes, Noida Extension, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1698\/9\/33969259T-1431173683.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "Z9641951": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.543965392714",
+            "LNG": "77.366065979004",
+            "PRICE_RANGE": {
+              "min": 20200000,
+              "max": 20200000
+            },
+            "AREA": "162 Sq. Meter",
+            "LOCALITY_ID": 7804,
+            "ADDRESS": "Sector-100 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/452\/15\/9055426T-1433328314.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": ""
+          },
+          "F19760823": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.530755014079",
+            "LNG": "77.373972903735",
+            "PRICE_RANGE": {
+              "min": 23750000,
+              "max": 23750000
+            },
+            "AREA": "250 Sq. Meter",
+            "LOCALITY_ID": 160,
+            "ADDRESS": "Sector-105 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1764\/5\/35285597T-1433238624.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          },
+          "T9600105": {
+            "PROP_TYPE": "Land",
+            "LAT": "28.527527340044",
+            "LNG": "77.379455566406",
+            "PRICE_RANGE": {
+              "min": 25000000,
+              "max": 25000000
+            },
+            "AREA": "200 Sq. Meter",
+            "LOCALITY_ID": 161,
+            "ADDRESS": "Sector-108 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/static.99acres.com\/images\/mapsearch\/nophoto.jpg",
+              "type": "noPhoto"
+            },
+            "AVAILABILITY": ""
+          },
+          "Y19734627": {
+            "PROP_TYPE": "Apartment",
+            "LAT": "28.555620936741",
+            "LNG": "77.405193149182",
+            "BEDROOM_NUM": 1,
+            "PRICE_RANGE": {
+              "min": 1600000,
+              "max": 1600000
+            },
+            "AREA": " ",
+            "PROJ_NAME": "Symbolic Homes",
+            "LOCALITY_ID": 151,
+            "ADDRESS": "Symbolic Homes, Sector-80 Noida, Noida",
+            "VERIFIED": "N",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1759\/3\/35183353T-1433054710.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Under Construction"
+          },
+          "Q19632931": {
+            "PROP_TYPE": "House\/Villa",
+            "LAT": "28.54757",
+            "LNG": "77.3722403",
+            "BEDROOM_NUM": 13,
+            "PRICE_RANGE": {
+              "min": 39800000,
+              "max": 39800000
+            },
+            "AREA": "7000 Sq.Ft.",
+            "LOCALITY_ID": 76,
+            "ADDRESS": "Sector-47 Noida, Noida",
+            "VERIFIED": "Y",
+            "DEFAULT_THUMB": {
+              "url": "http:\/\/mediacdn.99acres.com\/1758\/16\/35176805T-1433015586.jpeg",
+              "type": "photo"
+            },
+            "AVAILABILITY": "Ready to Move"
+          }
+        },
+        "buildings": {
+          "793": {
+            "ID": "793",
+            "BUILDING_NAME": "Block A",
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Block A, , Noida"
+          },
+          "810": {
+            "ID": "810",
+            "BUILDING_NAME": "Jaypee Greens",
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Jaypee Greens, , Noida"
+          },
+          "814": {
+            "ID": "814",
+            "BUILDING_NAME": "Block B",
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Block B, , Noida"
+          },
+          "4386": {
+            "ID": "4386",
+            "BUILDING_NAME": "Lotus Boulevard",
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Lotus Boulevard, , Noida"
+          },
+          "4530": {
+            "ID": "4530",
+            "BUILDING_NAME": "3C Lotus Boulevard Espacia",
+            "COUNT": 258,
+            "LAT": 28.54366,
+            "LNG": 77.368659,
+            "ADDRESS": "3C Lotus Boulevard Espacia, , Noida"
+          },
+          "4828": {
+            "ID": "4828",
+            "BUILDING_NAME": "3C Lotus Panache Island",
+            "COUNT": 1,
+            "LAT": 28.5312814,
+            "LNG": 77.3815484,
+            "ADDRESS": "3C Lotus Panache Island, , Noida"
+          },
+          "5018": {
+            "ID": "5018",
+            "BUILDING_NAME": "Amrapali Leisure Park",
+            "COUNT": 66,
+            "LAT": 28.531566,
+            "LNG": 77.407808,
+            "ADDRESS": "Amrapali Leisure Park, , Noida"
+          },
+          "8194": {
+            "ID": "8194",
+            "BUILDING_NAME": "3C Lotus Panache",
+            "COUNT": 672,
+            "LAT": 28.5312814,
+            "LNG": 77.3815484,
+            "ADDRESS": "3C Lotus Panache, , Noida"
+          },
+          "8222": {
+            "ID": "8222",
+            "BUILDING_NAME": "Sunworld Vanalika",
+            "COUNT": 123,
+            "LAT": 28.551102,
+            "LNG": 77.376724,
+            "ADDRESS": "Sunworld Vanalika, , Noida"
+          },
+          "8820": {
+            "ID": "8820",
+            "BUILDING_NAME": "Gaur City 2",
+            "COUNT": 3,
+            "LAT": 28.529985,
+            "LNG": 77.408119,
+            "ADDRESS": "Gaur City 2, , Noida"
+          },
+          "9440": {
+            "ID": "9440",
+            "BUILDING_NAME": "Earth Towne",
+            "COUNT": 5,
+            "LAT": 28.538286,
+            "LNG": 77.396049,
+            "ADDRESS": "Earth Towne, , Noida"
+          },
+          "12534": {
+            "ID": "12534",
+            "BUILDING_NAME": "Amrapali Jaura Heights",
+            "COUNT": 4,
+            "LAT": 28.535902,
+            "LNG": 77.392012,
+            "ADDRESS": "Amrapali Jaura Heights, , Noida"
+          },
+          "13036": {
+            "ID": "13036",
+            "BUILDING_NAME": "Janta Flats",
+            "COUNT": 2,
+            "LAT": 28.525573,
+            "LNG": 77.389294,
+            "ADDRESS": "Janta Flats, , Noida"
+          },
+          "14088": {
+            "ID": "14088",
+            "BUILDING_NAME": "Ace Aspire",
+            "COUNT": 11,
+            "LAT": 28.531647,
+            "LNG": 77.407829,
+            "ADDRESS": "Ace Aspire, , Noida"
+          },
+          "14114": {
+            "ID": "14114",
+            "BUILDING_NAME": "Amrapali Verona Heights",
+            "COUNT": 7,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Amrapali Verona Heights, , Noida"
+          },
+          "14158": {
+            "ID": "14158",
+            "BUILDING_NAME": "Future Estate",
+            "COUNT": 2,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Future Estate, , Noida"
+          },
+          "14216": {
+            "ID": "14216",
+            "BUILDING_NAME": "NDA Ekta Kunj",
+            "COUNT": 1,
+            "LAT": 28.524354,
+            "LNG": 77.391632,
+            "ADDRESS": "NDA Ekta Kunj, , Noida"
+          },
+          "14240": {
+            "ID": "14240",
+            "BUILDING_NAME": "NX ONE",
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "NX ONE, , Noida"
+          },
+          "46674": {
+            "ID": "46674",
+            "BUILDING_NAME": "Express View HIG Apartment",
+            "COUNT": 30,
+            "LAT": 28.527775,
+            "LNG": 77.371778,
+            "ADDRESS": "Express View HIG Apartment, , Noida"
+          },
+          "47326": {
+            "ID": "47326",
+            "BUILDING_NAME": "Mascot Soho Sports City ",
+            "COUNT": 1,
+            "LAT": 28.531237,
+            "LNG": 77.409434,
+            "ADDRESS": "Mascot Soho Sports City , , Noida"
+          },
+          "70636": {
+            "ID": "70636",
+            "BUILDING_NAME": "EWS Flats",
+            "COUNT": 1,
+            "LAT": 28.524379,
+            "LNG": 77.391567,
+            "ADDRESS": "EWS Flats, , Noida"
+          },
+          "74330": {
+            "ID": "74330",
+            "BUILDING_NAME": "MIG Flats",
+            "COUNT": 14,
+            "LAT": 28.545491,
+            "LNG": 77.37314,
+            "ADDRESS": "MIG Flats, , Noida"
+          },
+          "149501": {
+            "ID": "149501",
+            "BUILDING_NAME": "Gaur City 5th Avenue",
+            "COUNT": 11,
+            "LAT": 28.532447,
+            "LNG": 77.406323,
+            "ADDRESS": "Gaur City 5th Avenue, , Noida"
+          },
+          "153466": {
+            "ID": "153466",
+            "BUILDING_NAME": "Omaxe Grandwood",
+            "COUNT": 1,
+            "LAT": 28.513467,
+            "LNG": 77.39077,
+            "ADDRESS": "Omaxe Grandwood, , Noida"
+          },
+          "161478": {
+            "ID": "161478",
+            "BUILDING_NAME": "AWHO Township",
+            "COUNT": 1,
+            "LAT": 28.530201,
+            "LNG": 77.388933,
+            "ADDRESS": "AWHO Township, , Noida"
+          },
+          "166937": {
+            "ID": "166937",
+            "BUILDING_NAME": "Ashu Apartments",
+            "COUNT": 2,
+            "LAT": 28.557587,
+            "LNG": 77.375772,
+            "ADDRESS": "Ashu Apartments, , Noida"
+          },
+          "207959": {
+            "ID": "207959",
+            "BUILDING_NAME": "LIG flats",
+            "COUNT": 4,
+            "LAT": 28.528225,
+            "LNG": 77.393768,
+            "ADDRESS": "LIG flats, , Noida"
+          },
+          "208443": {
+            "ID": "208443",
+            "BUILDING_NAME": "Gaur City 1 Avenue",
+            "COUNT": 1,
+            "LAT": 28.532765,
+            "LNG": 77.406328,
+            "ADDRESS": "Gaur City 1 Avenue, , Noida"
+          },
+          "218386": {
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": ", , Noida"
+          },
+          "220851": {
+            "ID": "220851",
+            "BUILDING_NAME": "Super MIG Sector 93 RWA",
+            "COUNT": 8,
+            "LAT": 28.523572,
+            "LNG": 77.385998,
+            "ADDRESS": "Super MIG Sector 93 RWA, , Noida"
+          },
+          "221025": {
+            "ID": "221025",
+            "BUILDING_NAME": "The 3C Lotus 300",
+            "COUNT": 10,
+            "LAT": 28.546586,
+            "LNG": 77.375962,
+            "ADDRESS": "The 3C Lotus 300, , Noida"
+          },
+          "221059": {
+            "ID": "221059",
+            "BUILDING_NAME": "Express View Apartment",
+            "COUNT": 1,
+            "LAT": 28.530731,
+            "LNG": 77.369789,
+            "ADDRESS": "Express View Apartment, , Noida"
+          },
+          "222133": {
+            "ID": "222133",
+            "BUILDING_NAME": "RWA Sector 105",
+            "COUNT": 16,
+            "LAT": 28.531334,
+            "LNG": 77.368823,
+            "ADDRESS": "RWA Sector 105, , Noida"
+          },
+          "222173": {
+            "ID": "222173",
+            "BUILDING_NAME": "Supertech Apex",
+            "COUNT": 1,
+            "LAT": 28.523478,
+            "LNG": 77.386083,
+            "ADDRESS": "Supertech Apex, , Noida"
+          },
+          "222309": {
+            "ID": "222309",
+            "BUILDING_NAME": "Great Value Sharanam",
+            "COUNT": 1,
+            "LAT": 28.546963,
+            "LNG": 77.375833,
+            "ADDRESS": "Great Value Sharanam, , Noida"
+          },
+          "236131": {
+            "ID": "236131",
+            "BUILDING_NAME": "Shramik Kunj Apartments",
+            "COUNT": 7,
+            "LAT": 28.520211,
+            "LNG": 77.382672,
+            "ADDRESS": "Shramik Kunj Apartments, , Noida"
+          },
+          "238176": {
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": ", , Noida"
+          },
+          "246143": {
+            "ID": "246143",
+            "BUILDING_NAME": "Sikka Kimaantra Greens",
+            "COUNT": 163,
+            "LAT": 28.558349,
+            "LNG": 77.394165,
+            "ADDRESS": "Sikka Kimaantra Greens, , Noida"
+          },
+          "294372": {
+            "COUNT": 1,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": ", , Noida"
+          },
+          "326449": {
+            "ID": "326449",
+            "BUILDING_NAME": "Supertech Eco Village 1",
+            "COUNT": 85,
+            "LAT": 28.532379,
+            "LNG": 77.406838,
+            "ADDRESS": "Supertech Eco Village 1, , Noida"
+          },
+          "337411": {
+            "ID": "337411",
+            "BUILDING_NAME": "Prithvi East Avenue Grand",
+            "COUNT": 44,
+            "LAT": 28.55613,
+            "LNG": 77.373372,
+            "ADDRESS": "Prithvi East Avenue Grand, , Noida"
+          },
+          "367530": {
+            "ID": "367530",
+            "BUILDING_NAME": "Habitech Panch Tatva",
+            "COUNT": 2,
+            "LAT": 28.532908,
+            "LNG": 77.407651,
+            "ADDRESS": "Habitech Panch Tatva, , Noida"
+          },
+          "368844": {
+            "ID": "368844",
+            "BUILDING_NAME": "EWS Flats",
+            "COUNT": 1,
+            "LAT": 28.523835,
+            "LNG": 77.386035,
+            "ADDRESS": "EWS Flats, , Noida"
+          },
+          "376212": {
+            "ID": "376212",
+            "BUILDING_NAME": "ABCZ East Avenue Grand",
+            "COUNT": 5,
+            "LAT": 28.556123,
+            "LNG": 77.37336,
+            "ADDRESS": "ABCZ East Avenue Grand, , Noida"
+          }
+        },
+        "xidmappedbuildings": {
+          "1": {
+            "ID": "1",
+            "BUILDING_NAME": "Purvanchal Silver City",
+            "COUNT": 152,
+            "LAT": 28.519647,
+            "LNG": 77.38804,
+            "ADDRESS": "Purvanchal Silver City, , Noida",
+            "ATTACHED_XID": "12606",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "2": {
+            "ID": "2",
+            "BUILDING_NAME": "Eldeco Olympia",
+            "COUNT": 35,
+            "LAT": 28.518077,
+            "LNG": 77.387015,
+            "ADDRESS": "Eldeco Olympia, , Noida",
+            "ATTACHED_XID": "27",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "753": {
+            "ID": "753",
+            "BUILDING_NAME": "Grand Omaxe",
+            "COUNT": 217,
+            "LAT": 28.511773,
+            "LNG": 77.39175,
+            "ADDRESS": "Grand Omaxe, , Noida",
+            "ATTACHED_XID": "29",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "755": {
+            "ID": "755",
+            "BUILDING_NAME": "Supertech Emerald court",
+            "COUNT": 72,
+            "LAT": 28.519527,
+            "LNG": 77.38267,
+            "ADDRESS": "Supertech Emerald court, , Noida",
+            "ATTACHED_XID": "12350",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "756": {
+            "ID": "756",
+            "BUILDING_NAME": "Eldeco Studio",
+            "COUNT": 5,
+            "LAT": 28.514696,
+            "LNG": 77.384928,
+            "ADDRESS": "Eldeco Studio, , Noida",
+            "ATTACHED_XID": "35498",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "757": {
+            "ID": "757",
+            "BUILDING_NAME": "Express View Apartment",
+            "COUNT": 42,
+            "LAT": 28.522695,
+            "LNG": 77.389189,
+            "ADDRESS": "Express View Apartment, , Noida",
+            "ATTACHED_XID": "12362",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "758": {
+            "ID": "758",
+            "BUILDING_NAME": "Parsvnath Srishti",
+            "COUNT": 36,
+            "LAT": 28.521702,
+            "LNG": 77.385338,
+            "ADDRESS": "Parsvnath Srishti, , Noida",
+            "ATTACHED_XID": "28144",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "761": {
+            "ID": "761",
+            "BUILDING_NAME": "Vivek Vihar",
+            "COUNT": 107,
+            "LAT": 28.528291,
+            "LNG": 77.389277,
+            "ADDRESS": "Vivek Vihar, , Noida",
+            "ATTACHED_XID": "12368",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "762": {
+            "ID": "762",
+            "BUILDING_NAME": "Udyog Vihar",
+            "COUNT": 26,
+            "LAT": 28.528632,
+            "LNG": 77.38893,
+            "ADDRESS": "Udyog Vihar, , Noida",
+            "ATTACHED_XID": "12376",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "790": {
+            "ID": "790",
+            "BUILDING_NAME": "Eldeco Ananda",
+            "COUNT": 10,
+            "LAT": 28.553391,
+            "LNG": 77.372899,
+            "ADDRESS": "Eldeco Ananda, , Noida",
+            "ATTACHED_XID": "35342",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "1453": {
+            "ID": "1453",
+            "BUILDING_NAME": "ATS Village",
+            "COUNT": 131,
+            "LAT": 28.519185,
+            "LNG": 77.38518,
+            "ADDRESS": "ATS Village, , Noida",
+            "ATTACHED_XID": "12506",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "1454": {
+            "ID": "1454",
+            "BUILDING_NAME": "Parsvnath Prestige",
+            "COUNT": 104,
+            "LAT": 28.516896,
+            "LNG": 77.384479,
+            "ADDRESS": "Parsvnath Prestige, , Noida",
+            "ATTACHED_XID": "34854",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "1455": {
+            "ID": "1455",
+            "BUILDING_NAME": "Eldeco Utopia",
+            "COUNT": 74,
+            "LAT": 28.515796,
+            "LNG": 77.386421,
+            "ADDRESS": "Eldeco Utopia, , Noida",
+            "ATTACHED_XID": "281",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "3506": {
+            "ID": "3506",
+            "BUILDING_NAME": "Jaypee Greens Pavillion Heights",
+            "COUNT": 38,
+            "LAT": 28.522414,
+            "LNG": 77.367909,
+            "ADDRESS": "Jaypee Greens Pavillion Heights, , Noida",
+            "ATTACHED_XID": "143",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "3828": {
+            "ID": "3828",
+            "BUILDING_NAME": "Jaypee Kallisto Townhomes",
+            "COUNT": 8,
+            "LAT": 28.526412,
+            "LNG": 77.363866,
+            "ADDRESS": "Jaypee Kallisto Townhomes, , Noida",
+            "ATTACHED_XID": "305",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "3908": {
+            "ID": "3908",
+            "BUILDING_NAME": "Supertech Bluestone",
+            "COUNT": 3,
+            "LAT": 28.519844,
+            "LNG": 77.384278,
+            "ADDRESS": "Supertech Bluestone, , Noida",
+            "ATTACHED_XID": "448",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "4154": {
+            "ID": "4154",
+            "BUILDING_NAME": "Jaypee Greens Klassic Studio",
+            "COUNT": 8,
+            "LAT": 28.5273499,
+            "LNG": 77.3666314,
+            "ADDRESS": "Jaypee Greens Klassic Studio, , Noida",
+            "ATTACHED_XID": "468",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "4958": {
+            "ID": "4958",
+            "BUILDING_NAME": "Assotech Windsor Court",
+            "COUNT": 64,
+            "LAT": 28.560633,
+            "LNG": 77.388105,
+            "ADDRESS": "Assotech Windsor Court, , Noida",
+            "ATTACHED_XID": "981",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "7261": {
+            "ID": "7261",
+            "BUILDING_NAME": "Omaxe The Forest",
+            "COUNT": 66,
+            "LAT": 28.5198369,
+            "LNG": 77.3950457,
+            "ADDRESS": "Omaxe The Forest, , Noida",
+            "ATTACHED_XID": "27692",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "8198": {
+            "ID": "8198",
+            "BUILDING_NAME": "3C Lotus Boulevard",
+            "COUNT": 826,
+            "LAT": 28.545429,
+            "LNG": 77.368751,
+            "ADDRESS": "3C Lotus Boulevard, , Noida",
+            "ATTACHED_XID": "588",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "8220": {
+            "ID": "8220",
+            "BUILDING_NAME": "3C Lotus 300",
+            "COUNT": 58,
+            "LAT": 28.544004,
+            "LNG": 77.37515,
+            "ADDRESS": "3C Lotus 300, , Noida",
+            "ATTACHED_XID": "1066",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "8234": {
+            "ID": "8234",
+            "BUILDING_NAME": "Antriksh Golf View II",
+            "COUNT": 130,
+            "LAT": 28.557943,
+            "LNG": 77.387712,
+            "ADDRESS": "Antriksh Golf View II, , Noida",
+            "ATTACHED_XID": "6588",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "8298": {
+            "ID": "8298",
+            "BUILDING_NAME": "Antriksh Golf View",
+            "COUNT": 389,
+            "LAT": 28.558603,
+            "LNG": 77.38606,
+            "ADDRESS": "Antriksh Golf View, , Noida",
+            "ATTACHED_XID": "54618",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "8558": {
+            "ID": "8558",
+            "BUILDING_NAME": "ATS One Hamlet",
+            "COUNT": 576,
+            "LAT": 28.534485,
+            "LNG": 77.391185,
+            "ADDRESS": "ATS One Hamlet, , Noida",
+            "ATTACHED_XID": "4032",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "11322": {
+            "ID": "11322",
+            "BUILDING_NAME": "Omaxe The Forest Spa",
+            "COUNT": 154,
+            "LAT": 28.513112,
+            "LNG": 77.39324,
+            "ADDRESS": "Omaxe The Forest Spa, , Noida",
+            "ATTACHED_XID": "32",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "11780": {
+            "ID": "11780",
+            "BUILDING_NAME": "Horizon Iridia",
+            "COUNT": 4,
+            "LAT": 28.526385,
+            "LNG": 77.410577,
+            "ADDRESS": "Horizon Iridia, , Noida",
+            "ATTACHED_XID": "6346",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "12332": {
+            "ID": "12332",
+            "BUILDING_NAME": "Prateek Edifice",
+            "COUNT": 98,
+            "LAT": 28.5457023,
+            "LNG": 77.3764943,
+            "ADDRESS": "Prateek Edifice, , Noida",
+            "ATTACHED_XID": "6882",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "12608": {
+            "ID": "12608",
+            "BUILDING_NAME": "Madhuban Apartment",
+            "COUNT": 16,
+            "LAT": 28.528201,
+            "LNG": 77.386825,
+            "ADDRESS": "Madhuban Apartment, , Noida",
+            "ATTACHED_XID": "28744",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "12610": {
+            "ID": "12610",
+            "BUILDING_NAME": "Elixir Divine Meadows",
+            "COUNT": 45,
+            "LAT": 28.525217,
+            "LNG": 77.375017,
+            "ADDRESS": "Elixir Divine Meadows, , Noida",
+            "ATTACHED_XID": "27842",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "12612": {
+            "ID": "12612",
+            "BUILDING_NAME": "Parx Laureate",
+            "COUNT": 9,
+            "LAT": 28.526454,
+            "LNG": 77.372486,
+            "ADDRESS": "Parx Laureate, , Noida",
+            "ATTACHED_XID": "6206",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "12982": {
+            "ID": "12982",
+            "BUILDING_NAME": "Strategic Krishna Apra Royal Court",
+            "COUNT": 25,
+            "LAT": 28.532046,
+            "LNG": 77.407775,
+            "ADDRESS": "Strategic Krishna Apra Royal Court, , Noida",
+            "ATTACHED_XID": "7408",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "13038": {
+            "ID": "13038",
+            "BUILDING_NAME": "CGEWHO Kendriya Vihar 2",
+            "COUNT": 97,
+            "LAT": 28.53167,
+            "LNG": 77.389613,
+            "ADDRESS": "CGEWHO Kendriya Vihar 2, , Noida",
+            "ATTACHED_XID": "43030",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "13608": {
+            "ID": "13608",
+            "BUILDING_NAME": "Urbtech Trade Centre",
+            "COUNT": 1,
+            "LAT": 28.515257,
+            "LNG": 77.373035,
+            "ADDRESS": "Urbtech Trade Centre, , Noida",
+            "ATTACHED_XID": "342",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "13660": {
+            "ID": "13660",
+            "BUILDING_NAME": "Geotech Pristine Avenue",
+            "COUNT": 27,
+            "LAT": 28.531555,
+            "LNG": 77.407824,
+            "ADDRESS": "Geotech Pristine Avenue, , Noida",
+            "ATTACHED_XID": "7844",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "14092": {
+            "ID": "14092",
+            "BUILDING_NAME": "Airwil Intellicity",
+            "COUNT": 2,
+            "LAT": 28.531643,
+            "LNG": 77.407797,
+            "ADDRESS": "Airwil Intellicity, , Noida",
+            "ATTACHED_XID": "388",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "14218": {
+            "ID": "14218",
+            "BUILDING_NAME": "Swarnim Vihar",
+            "COUNT": 20,
+            "LAT": 28.529969,
+            "LNG": 77.385597,
+            "ADDRESS": "Swarnim Vihar, , Noida",
+            "ATTACHED_XID": "65648",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "16438": {
+            "ID": "16438",
+            "BUILDING_NAME": "Gaur Sports Wood",
+            "COUNT": 62,
+            "LAT": 28.55719,
+            "LNG": 77.401593,
+            "ADDRESS": "Gaur Sports Wood, , Noida",
+            "ATTACHED_XID": "8876",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "20550": {
+            "ID": "20550",
+            "BUILDING_NAME": "Shubhkamna Tech Homes",
+            "COUNT": 32,
+            "LAT": 28.5133965,
+            "LNG": 77.4072433,
+            "ADDRESS": "Shubhkamna Tech Homes, , Noida",
+            "ATTACHED_XID": "1163",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "20554": {
+            "ID": "20554",
+            "BUILDING_NAME": "Earthcon Sir Syed Apartments",
+            "COUNT": 6,
+            "LAT": 28.53658,
+            "LNG": 77.389124,
+            "ADDRESS": "Earthcon Sir Syed Apartments, , Noida",
+            "ATTACHED_XID": "64900",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "20652": {
+            "ID": "20652",
+            "BUILDING_NAME": "Jalvayu Towers",
+            "COUNT": 33,
+            "LAT": 28.552188,
+            "LNG": 77.372952,
+            "ADDRESS": "Jalvayu Towers, , Noida",
+            "ATTACHED_XID": "39246",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "20664": {
+            "ID": "20664",
+            "BUILDING_NAME": "Hindon Vihar",
+            "COUNT": 52,
+            "LAT": 28.557041,
+            "LNG": 77.375864,
+            "ADDRESS": "Hindon Vihar, , Noida",
+            "ATTACHED_XID": "28132",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "20672": {
+            "ID": "20672",
+            "BUILDING_NAME": "Kesar Garden Apartments",
+            "COUNT": 10,
+            "LAT": 28.552571,
+            "LNG": 77.375288,
+            "ADDRESS": "Kesar Garden Apartments, , Noida",
+            "ATTACHED_XID": "35522",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "30616": {
+            "ID": "30616",
+            "BUILDING_NAME": "Century Apartments",
+            "COUNT": 11,
+            "LAT": 28.543929,
+            "LNG": 77.365579,
+            "ADDRESS": "Century Apartments, , Noida",
+            "ATTACHED_XID": "36312",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "32834": {
+            "ID": "32834",
+            "BUILDING_NAME": "Mahagun Mirabella",
+            "COUNT": 46,
+            "LAT": 28.560736,
+            "LNG": 77.394266,
+            "ADDRESS": "Mahagun Mirabella, , Noida",
+            "ATTACHED_XID": "10578",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "34906": {
+            "ID": "34906",
+            "BUILDING_NAME": "Sikka Karmic Greens",
+            "COUNT": 49,
+            "LAT": 28.560701,
+            "LNG": 77.388414,
+            "ADDRESS": "Sikka Karmic Greens, , Noida",
+            "ATTACHED_XID": "11796",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "38050": {
+            "ID": "38050",
+            "BUILDING_NAME": "Great Value Sharnam",
+            "COUNT": 43,
+            "LAT": 28.543457,
+            "LNG": 77.372675,
+            "ADDRESS": "Great Value Sharnam, , Noida",
+            "ATTACHED_XID": "1355",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "40616": {
+            "ID": "40616",
+            "BUILDING_NAME": "Mahagun Marvella",
+            "COUNT": 24,
+            "LAT": 28.561321,
+            "LNG": 77.386278,
+            "ADDRESS": "Mahagun Marvella, , Noida",
+            "ATTACHED_XID": "24830",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "41252": {
+            "ID": "41252",
+            "BUILDING_NAME": "Lotus Square Residences",
+            "COUNT": 1,
+            "LAT": 28.534804,
+            "LNG": 77.36269,
+            "ADDRESS": "Lotus Square Residences, , Noida",
+            "ATTACHED_XID": "25996",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "41906": {
+            "ID": "41906",
+            "BUILDING_NAME": "Lotus Greens Sports City",
+            "COUNT": 3,
+            "LAT": 28.559152,
+            "LNG": 77.393725,
+            "ADDRESS": "Lotus Greens Sports City, , Noida",
+            "ATTACHED_XID": "27788",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "42624": {
+            "ID": "42624",
+            "BUILDING_NAME": "Ashiana Homes",
+            "COUNT": 5,
+            "LAT": 28.555685,
+            "LNG": 77.391372,
+            "ADDRESS": "Ashiana Homes, , Noida",
+            "ATTACHED_XID": "28926",
+            "POSSESSION_STATUS": "New Launch"
+          },
+          "43440": {
+            "ID": "43440",
+            "BUILDING_NAME": "World One",
+            "COUNT": 2,
+            "LAT": 28.523003,
+            "LNG": 77.412972,
+            "ADDRESS": "World One, , Noida",
+            "ATTACHED_XID": "764",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "43748": {
+            "ID": "43748",
+            "BUILDING_NAME": "Amrapali HeartBeat City",
+            "COUNT": 39,
+            "LAT": 28.547849,
+            "LNG": 77.375872,
+            "ADDRESS": "Amrapali HeartBeat City, , Noida",
+            "ATTACHED_XID": "1089",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "46232": {
+            "ID": "46232",
+            "BUILDING_NAME": "Exotica Sports City",
+            "COUNT": 1,
+            "LAT": 28.559476,
+            "LNG": 77.393848,
+            "ADDRESS": "Exotica Sports City, , Noida",
+            "ATTACHED_XID": "33738",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "47234": {
+            "ID": "47234",
+            "BUILDING_NAME": "Purvanchal Royal Park",
+            "COUNT": 184,
+            "LAT": 28.51332,
+            "LNG": 77.406788,
+            "ADDRESS": "Purvanchal Royal Park, , Noida",
+            "ATTACHED_XID": "34654",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "48138": {
+            "ID": "48138",
+            "BUILDING_NAME": "Morpheus Greens",
+            "COUNT": 8,
+            "LAT": 28.559008,
+            "LNG": 77.386346,
+            "ADDRESS": "Morpheus Greens, , Noida",
+            "ATTACHED_XID": "35476",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "48158": {
+            "ID": "48158",
+            "BUILDING_NAME": "Eldeco Sylvan View",
+            "COUNT": 13,
+            "LAT": 28.52542,
+            "LNG": 77.382929,
+            "ADDRESS": "Eldeco Sylvan View, , Noida",
+            "ATTACHED_XID": "35490",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "48178": {
+            "ID": "48178",
+            "BUILDING_NAME": "Sunshine Helios",
+            "COUNT": 135,
+            "LAT": 28.560071,
+            "LNG": 77.385028,
+            "ADDRESS": "Sunshine Helios, , Noida",
+            "ATTACHED_XID": "35510",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "53072": {
+            "ID": "53072",
+            "BUILDING_NAME": "Lotus Greens Arena",
+            "COUNT": 70,
+            "LAT": 28.555085,
+            "LNG": 77.392973,
+            "ADDRESS": "Lotus Greens Arena, , Noida",
+            "ATTACHED_XID": "39988",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "57478": {
+            "ID": "57478",
+            "BUILDING_NAME": "Gaur City Plaza",
+            "COUNT": 4,
+            "LAT": 28.53586,
+            "LNG": 77.39197,
+            "ADDRESS": "Gaur City Plaza, , Noida",
+            "ATTACHED_XID": "1164",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "58902": {
+            "ID": "58902",
+            "BUILDING_NAME": "Lotus Yardscape",
+            "COUNT": 1,
+            "LAT": 28.55946,
+            "LNG": 77.394147,
+            "ADDRESS": "Lotus Yardscape, , Noida",
+            "ATTACHED_XID": "44620",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "62509": {
+            "ID": "62509",
+            "BUILDING_NAME": "Antriksh IT Residency",
+
+            "COUNT": 1,
+            "LAT": 28.535527,
+            "LNG": 77.392596,
+            "ADDRESS": "Antriksh IT Residency, , Noida",
+            "ATTACHED_XID": "47672",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "64612": {
+            "ID": "64612",
+            "BUILDING_NAME": "Supertech Emperor",
+            "COUNT": 3,
+            "LAT": 28.5193052,
+            "LNG": 77.38325,
+            "ADDRESS": "Supertech Emperor, , Noida",
+            "ATTACHED_XID": "54640",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "85598": {
+            "ID": "85598",
+            "BUILDING_NAME": "Shiva Shree Sai Residency",
+            "COUNT": 19,
+            "LAT": 28.532633,
+            "LNG": 77.407582,
+            "ADDRESS": "Shiva Shree Sai Residency, , Noida",
+            "ATTACHED_XID": "31060",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "91258": {
+            "ID": "91258",
+            "BUILDING_NAME": "Ajnara The Belvedere",
+            "COUNT": 131,
+            "LAT": 28.558477,
+            "LNG": 77.394669,
+            "ADDRESS": "Ajnara The Belvedere, , Noida",
+            "ATTACHED_XID": "61681",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "109071": {
+            "ID": "109071",
+            "BUILDING_NAME": "Amrapali Courtyard",
+            "COUNT": 50,
+            "LAT": 28.531477,
+            "LNG": 77.407837,
+            "ADDRESS": "Amrapali Courtyard, , Noida",
+            "ATTACHED_XID": "70528",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "115551": {
+            "ID": "115551",
+            "BUILDING_NAME": "Mahagun Mywoods Marvella",
+            "COUNT": 49,
+            "LAT": 28.5323506,
+            "LNG": 77.4075825,
+            "ADDRESS": "Mahagun Mywoods Marvella, , Noida",
+            "ATTACHED_XID": "42124",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "116401": {
+            "ID": "116401",
+            "BUILDING_NAME": "Lotus Isle",
+            "COUNT": 10,
+            "LAT": 28.534839,
+            "LNG": 77.361035,
+            "ADDRESS": "Lotus Isle, , Noida",
+            "ATTACHED_XID": "77961",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "116417": {
+            "ID": "116417",
+            "BUILDING_NAME": "Gaur City Galleria",
+            "COUNT": 1,
+            "LAT": 28.532876,
+            "LNG": 77.407637,
+            "ADDRESS": "Gaur City Galleria, , Noida",
+            "ATTACHED_XID": "1693",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "122899": {
+            "ID": "122899",
+            "BUILDING_NAME": "Mascot Misty Heights",
+            "COUNT": 36,
+            "LAT": 28.531017,
+            "LNG": 77.410215,
+            "ADDRESS": "Mascot Misty Heights, , Noida",
+            "ATTACHED_XID": "35456",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "127667": {
+            "ID": "127667",
+            "BUILDING_NAME": "Mahagun Mywoods Mart",
+            "COUNT": 6,
+            "LAT": 28.534437,
+            "LNG": 77.40903,
+            "ADDRESS": "Mahagun Mywoods Mart, , Noida",
+            "ATTACHED_XID": "1689",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "132543": {
+            "ID": "132543",
+            "BUILDING_NAME": "Omaxe Riyaasat",
+            "COUNT": 1,
+            "LAT": 28.511959,
+            "LNG": 77.391837,
+            "ADDRESS": "Omaxe Riyaasat, , Noida",
+            "ATTACHED_XID": "80002",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "150693": {
+            "ID": "150693",
+            "BUILDING_NAME": "Supertech Sports Republik",
+            "COUNT": 17,
+            "LAT": 28.5335827,
+            "LNG": 77.4079082,
+            "ADDRESS": "Supertech Sports Republik, , Noida",
+            "ATTACHED_XID": "91151",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "152455": {
+            "ID": "152455",
+            "BUILDING_NAME": "SS Buildcon Sri Krishan Enclave",
+            "COUNT": 3,
+            "LAT": 28.52052,
+            "LNG": 77.376551,
+            "ADDRESS": "SS Buildcon Sri Krishan Enclave, , Noida",
+            "ATTACHED_XID": "92405",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "152931": {
+            "ID": "152931",
+            "BUILDING_NAME": "SS Buildcon Emerald",
+            "COUNT": 4,
+            "LAT": 28.532927,
+            "LNG": 77.409239,
+            "ADDRESS": "SS Buildcon Emerald, , Noida",
+            "ATTACHED_XID": "92833",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "152943": {
+            "ID": "152943",
+            "BUILDING_NAME": "SS Buildcon Shri Radhe Shyam Vatika",
+            "COUNT": 1,
+            "LAT": 28.532927,
+            "LNG": 77.409239,
+            "ADDRESS": "SS Buildcon Shri Radhe Shyam Vatika, , Noida",
+            "ATTACHED_XID": "92843",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "165059": {
+            "ID": "165059",
+            "BUILDING_NAME": "Jaypee Kensington Park Plot Phase 1",
+            "COUNT": 2,
+            "LAT": 0,
+            "LNG": 0,
+            "ADDRESS": "Jaypee Kensington Park Plot Phase 1, , Noida",
+            "ATTACHED_XID": "100965",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "166147": {
+            "ID": "166147",
+            "BUILDING_NAME": "Shatabdi Enclave",
+            "COUNT": 6,
+            "LAT": 28.558986,
+            "LNG": 77.376563,
+            "ADDRESS": "Shatabdi Enclave, , Noida",
+            "ATTACHED_XID": "137841",
+            "POSSESSION_STATUS": "Ready To Move"
+          },
+          "181833": {
+            "ID": "181833",
+            "BUILDING_NAME": "Amrapali Bollywood Towers",
+            "COUNT": 12,
+            "LAT": 28.532892,
+            "LNG": 77.40637,
+            "ADDRESS": "Amrapali Bollywood Towers, , Noida",
+            "ATTACHED_XID": "110595",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "203449": {
+            "ID": "203449",
+            "BUILDING_NAME": "Pathway Homes",
+            "COUNT": 3,
+            "LAT": 28.534288,
+            "LNG": 77.406952,
+            "ADDRESS": "Pathway Homes, , Noida",
+            "ATTACHED_XID": "130485",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "220591": {
+            "ID": "220591",
+            "BUILDING_NAME": "Natures Green Sai Bliss Homes",
+            "COUNT": 2,
+            "LAT": 28.540035,
+            "LNG": 77.378822,
+            "ADDRESS": "Natures Green Sai Bliss Homes, , Noida",
+            "ATTACHED_XID": "136109",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "221861": {
+            "ID": "221861",
+            "BUILDING_NAME": "Royal Residency",
+            "COUNT": 1,
+            "LAT": 28.532004,
+            "LNG": 77.382771,
+            "ADDRESS": "Royal Residency, , Noida",
+            "ATTACHED_XID": "135837",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "222935": {
+            "ID": "222935",
+            "BUILDING_NAME": "Ashiana Amaltas",
+            "COUNT": 2,
+            "LAT": 28.559271,
+            "LNG": 77.39409,
+            "ADDRESS": "Ashiana Amaltas, , Noida",
+            "ATTACHED_XID": "138219",
+            "POSSESSION_STATUS": "Under Construction"
+          },
+          "365661": {
+            "ID": "365661",
+            "BUILDING_NAME": "Hilston Residences",
+            "COUNT": 2,
+            "LAT": 28.559676,
+            "LNG": 77.394218,
+            "ADDRESS": "Hilston Residences, , Noida",
+            "ATTACHED_XID": "231123",
+            "POSSESSION_STATUS": "New Launch"
+          }
+        }
+      }
+    },
+    {
+      "total": 3244,
+      "resultType": "LOCALITY_INSIDE_CIRCLE",
+      "results": [
+        {
+          "CNT": 1,
+          "ID": 72,
+          "NAME": "Sector-41 Noida",
+          "LAT": 28.556329897804,
+          "LNG": 77.37148084654
+        },
+        {
+          "CNT": 239,
+          "ID": 76,
+          "NAME": "Sector-47 Noida",
+          "LAT": "28.550449",
+          "LNG": "77.3712026"
+        },
+        {
+          "CNT": 91,
+          "ID": 93,
+          "NAME": "Sector-92 Noida",
+          "LAT": "28.5189502",
+          "LNG": "77.3948829"
+        },
+        {
+          "CNT": 41,
+          "ID": 95,
+          "NAME": "Sector-93 Noida",
+          "LAT": "28.5230978",
+          "LNG": "77.3855549"
+        },
+        {
+          "CNT": 31,
+          "ID": 100,
+          "NAME": "Sector-48 Noida",
+          "LAT": 28.554813597968,
+          "LNG": 77.369561153816
+        },
+        {
+          "CNT": 9,
+          "ID": 101,
+          "NAME": "Sector-49 Noida",
+          "LAT": 28.559076680296,
+          "LNG": 77.376056874376
+        },
+        {
+          "CNT": 49,
+          "ID": 151,
+          "NAME": "Sector-80 Noida",
+          "LAT": "28.55135",
+          "LNG": "77.41138"
+        },
+        {
+          "CNT": 9,
+          "ID": 152,
+          "NAME": "Sector-81 Noida",
+          "LAT": "28.5500064",
+          "LNG": "77.3970354"
+        },
+        {
+          "CNT": 21,
+          "ID": 153,
+          "NAME": "Sector-82 Noida",
+          "LAT": "28.52938",
+          "LNG": "77.3913"
+        },
+        {
+          "CNT": 177,
+          "ID": 160,
+          "NAME": "Sector-105 Noida",
+          "LAT": "28.5316599",
+          "LNG": "77.3697672"
+        },
+        {
+          "CNT": 156,
+          "ID": 161,
+          "NAME": "Sector-108 Noida",
+          "LAT": "28.5280294",
+          "LNG": "77.3769437"
+        },
+        {
+          "CNT": 18,
+          "ID": 162,
+          "NAME": "Sector-107 Noida",
+          "LAT": "28.5458993",
+          "LNG": "77.3762261"
+        },
+        {
+          "CNT": 58,
+          "ID": 163,
+          "NAME": "Sector-110 Noida",
+          "LAT": "28.53511",
+          "LNG": "77.38555"
+        },
+        {
+          "CNT": 1,
+          "ID": 4806,
+          "NAME": "Sector-88 Noida",
+          "LAT": 28.532468630313,
+          "LNG": 77.421542775155
+        },
+        {
+          "CNT": 12,
+          "ID": 4807,
+          "NAME": "Sector-132 Noida",
+          "LAT": "28.5136781",
+          "LNG": "77.3769437"
+        },
+        {
+          "CNT": 2,
+          "ID": 4834,
+          "NAME": "Sector-106 Noida",
+          "LAT": "28.5362949",
+          "LNG": "77.3923716"
+        },
+        {
+          "CNT": 1,
+          "ID": 4838,
+          "NAME": "Sector-103 Noida",
+          "LAT": "28.55656",
+          "LNG": "77.3792"
+        },
+        {
+          "CNT": 11,
+          "ID": 5444,
+          "NAME": "Phase-II",
+          "LAT": "28.53241",
+          "LNG": "77.414"
+        },
+        {
+          "CNT": 45,
+          "ID": 6166,
+          "NAME": "Sector-128 Noida",
+          "LAT": 28.520513128897,
+          "LNG": 77.365510882441
+        },
+        {
+          "CNT": 3,
+          "ID": 7779,
+          "NAME": "Sector-129 Noida",
+          "LAT": 28.508819003614,
+          "LNG": 77.386628267291
+        },
+        {
+          "CNT": 85,
+          "ID": 7804,
+          "NAME": "Sector-100 Noida",
+          "LAT": "28.5441694",
+          "LNG": "77.3654611"
+        },
+        {
+          "CNT": 1,
+          "ID": 7858,
+          "NAME": "Sector-137 Noida",
+          "LAT": 28.511968353713,
+          "LNG": 77.406009032658
+        },
+        {
+          "CNT": 32,
+          "ID": 7878,
+          "NAME": "Sector-104 Noida",
+          "LAT": "28.5395095",
+          "LNG": "77.3769437"
+        },
+        {
+          "CNT": 34,
+          "ID": 8094,
+          "NAME": "Noida-Greater Noida Expressway",
+          "LAT": "28.51697",
+          "LNG": "77.38014"
+        },
+        {
+          "CNT": 1,
+          "ID": 8095,
+          "NAME": "Sector-84 Noida",
+          "LAT": "28.52891",
+          "LNG": "77.40923"
+        },
+        {
+          "CNT": 9,
+          "ID": 8191,
+          "NAME": "Hosiery Complex",
+          "LAT": "28.53164",
+          "LNG": "77.40572"
+        },
+        {
+          "CNT": 1937,
+          "ID": 8232,
+          "NAME": "Noida Extension",
+          "LAT": 28.559255330886,
+          "LNG": 77.405639603339
+        },
+        {
+          "CNT": 34,
+          "ID": 8398,
+          "NAME": "Sector-78 Noida",
+          "LAT": "28.560677",
+          "LNG": "77.3884251"
+        },
+        {
+          "CNT": 34,
+          "ID": 9158,
+          "NAME": "Sector-79 Noida",
+          "LAT": "28.55862",
+          "LNG": "77.39704"
+        },
+        {
+          "CNT": 33,
+          "ID": 11014,
+          "NAME": "Sector-93 A Noida",
+          "LAT": "28.518252",
+          "LNG": "77.38301"
+        },
+        {
+          "CNT": 38,
+          "ID": 11016,
+          "NAME": "Sector-93 B Noida",
+          "LAT": "28.512029",
+          "LNG": "77.391465"
+        },
+        {
+          "CNT": 2,
+          "ID": 13190,
+          "NAME": "Sector-101 Noida",
+          "LAT": "28.554172",
+          "LNG": "77.379819"
+        },
+        {
+          "CNT": 2,
+          "ID": 13192,
+          "NAME": "Sector-102 Noida",
+          "LAT": "28.545398",
+          "LNG": "77.386824"
+        },
+        {
+          "CNT": 4,
+          "ID": 13256,
+          "NAME": "Baraula",
+          "LAT": 28.558739547879,
+          "LNG": 77.375389272473
+        },
+        {
+          "CNT": 5,
+          "ID": 13260,
+          "NAME": "Hajipur",
+          "LAT": "28.53946",
+          "LNG": "77.367586"
+        },
+        {
+          "CNT": 17,
+          "ID": 16760,
+          "NAME": "NSEZ",
+          "LAT": "28.54057",
+          "LNG": "77.399068"
+        },
+        {
+          "CNT": 1,
+          "ID": 34931,
+          "NAME": "Salarpur",
+          "LAT": "28.54651",
+          "LNG": "77.388052"
+        }
+      ]
+    }
+  ], 
+  "poi": [
+    {
+      "NAME": "Khaitan Public School",
+      "LAT": "28.565074",
+      "LNG": "77.3523",
+      "CATEGORY": "Education"
+    },
+    {
+      "NAME": "Delhi Public School",
+      "LAT": "28.5731234",
+      "LNG": "77.3351249",
+      "CATEGORY": "Education"
+    },
+    {
+      "NAME": "Step by Step School",
+      "LAT": "28.511652",
+      "LNG": "77.378141",
+      "CATEGORY": "Education"
+    },
+    {
+      "NAME": "Amity University",
+      "LAT": "28.544054",
+      "LNG": "77.333209",
+      "CATEGORY": "Education"
+    },
+    {
+      "NAME": "Sharda University",
+      "LAT": "28.472798",
+      "LNG": "77.482022",
+      "CATEGORY": "Education"
+    },
+    {
+      "NAME": "Fortis Hospital",
+      "LAT": "28.6212655",
+      "LNG": "77.364423",
+      "CATEGORY": "Hospital"
+    },
+    {
+      "NAME": "Kailash",
+      "LAT": "28.577455",
+      "LNG": "77.331382",
+      "CATEGORY": "Hospital"
+    },
+    {
+      "NAME": "Prakash",
+      "LAT": "28.5890515",
+      "LNG": "77.3525385",
+      "CATEGORY": "Hospital"
+    },
+    {
+      "NAME": "Max Hospital",
+      "LAT": "28.5738916",
+      "LNG": "77.3203001",
+      "CATEGORY": "Hospital"
+    },
+    {
+      "NAME": "The Great India Place Mall",
+      "LAT": "28.568355",
+      "LNG": "77.326774",
+      "CATEGORY": "Mall"
+    },
+    {
+      "NAME": "Spice Mall",
+      "LAT": "28.586665",
+      "LNG": "77.3411",
+      "CATEGORY": "Mall"
+    },
+    {
+      "NAME": "Ganga Shopping Complex",
+      "LAT": "28.567865",
+      "LNG": "77.335572",
+      "CATEGORY": "Mall"
+    }
+  ]
+}
