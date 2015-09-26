@@ -1,10 +1,28 @@
-var app = app || {
+var map,
+	app = app || {
+	cityConfig: {
+		'Noida': {
+			'longitude':28.5700,
+			'latitude':77.3200
+		},
+		'Gurgaon': {
+			'longitude':28.4700,
+			'latitude':77.0300
+		},
+		'Delhi': {
+			'longitude':28.6100,
+			'latitude':77.2300
+		},
+		'Mumbai': {
+			'longitude':18.9750,
+			'latitude':72.8258
+		}
+	},
 	setUI: function () {
 		var listingHeight = $(window).height() - ($('#filters').height() + $('#listing div').height());
-		$('#listing ul').height(listingHeight);
+		$('#listing ul, #map').height(listingHeight);
 	},
 	getAjaxClusterDetails: function (params) {
-		console.log(params);
 		$.ajax({
 			url:'js/data.json',
 			data:params,
@@ -37,25 +55,52 @@ var app = app || {
 			error: function () {
 			}
 		});
-	},
-	initializeMap: function () {
-		// Initializing a map
-		var latlng = new google.maps.LatLng(29.392971,79.454051); // latitude is 29.392971,longitude: 79.454051
-		var myOptions = {
-			zoom: 7,
-			center: latlng,
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-		};
-		// Draw a map on DIV "map_canvas"
-		map = new google.maps.Map($("map"), myOptions);
-		// Listen Click Event to draw Polygon
-		google.maps.event.addListener(map, 'click', function(event) {
-			polyCoordinates[count] = event.latLng;
-			createPolyline(polyCoordinates);
-			count++;
+	}, 	
+	renderMap: function (paramsObj) {
+		var long = app.cityConfig[paramsObj.cityName].longitude,
+			lat = app.cityConfig[paramsObj.cityName].latitude,
+			myCenter = new google.maps.LatLng(long, lat),
+			mapProp = {
+				center:myCenter,
+				zoom:13,
+				mapTypeId:google.maps.MapTypeId.ROADMAP
+			},
+			myCity = new google.maps.Circle({
+			    center:myCenter,
+			    radius:2000,
+			    strokeColor:"#0000FF",
+			    strokeOpacity:0.8,
+			    strokeWeight:2,
+			    fillColor:"#0000FF",
+			    fillOpacity:0.4
+			}),
+			marker = new google.maps.Marker({
+  				position:myCenter,
+				icon:'images/pinkicon.png'
+  			});
+		
+		var infowindow = new google.maps.InfoWindow({
+		  content:"Hello World!"
 		});
 		
-		//refreshMap();
+		map = new google.maps.Map(document.getElementById("map"), mapProp);
+		myCity.setMap(map); 
+		
+		google.maps.event.addListener(map, 'click', function(event) {
+			app.placeMarker(event.latLng);
+		  //infowindow.open(map,marker);
+		});
+
+	},
+	placeMarker: function (location) {
+		var marker = new google.maps.Marker({
+				position: location,
+				map: map,
+			}),
+			infowindow = new google.maps.InfoWindow({
+				content: 'Latitude: ' + location.lat() + '<br>Longitude: ' + location.lng()
+			});
+	  	infowindow.open(map, marker);
 	},
 	changeListing: function (type) {
 		console.log(type);
@@ -75,6 +120,7 @@ $(function () {
 		var cityName = $(this).val(),
 			paramsObj = {'cityName':cityName};
 		app.getAjaxClusterDetails(paramsObj);
+		app.renderMap(paramsObj);
 	});
 	
 	$('body').on('change', "input.filterlist", function(e) {
@@ -85,5 +131,5 @@ $(function () {
 		app.changeListing(arry);
 	});
 	
-	//app.initializeMap();
+	app.renderMap(paramsObj);
 });
